@@ -19,3 +19,23 @@ inventario = [
     {"nombre": "USB", "stock": 0, "precio": 6.0},
     {"nombre": "Laptop", "stock": 4, "precio": 950.0},
 ]
+
+def resumen_inventario(inventario):
+    total_productos = len(inventario)
+    productos_sin_stock = [producto["nombre"] for producto in inventario if producto["stock"] == 0]
+    valor_total_inventario = sum(producto["stock"] * producto["precio"] for producto in inventario)
+
+    return total_productos, productos_sin_stock, valor_total_inventario
+
+total_productos, productos_sin_stock, valor_total_inventario = resumen_inventario(inventario)
+
+print(f"Cantidad total de productos: {total_productos}")
+print(f"Productos sin stock: {productos_sin_stock}")
+print(f"Valor total del inventario: {valor_total_inventario}")
+
+# Notas aclaratorias:
+#
+# Cuando una función retorna múltiples valores, se pueden desempaquetar en variables
+# separadas al momento de la llamada.
+# Estas variables deberán estar en el mismo orden que los valores retornados por la función
+# y separadas por comas.

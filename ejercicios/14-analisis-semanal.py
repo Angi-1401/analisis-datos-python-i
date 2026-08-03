@@ -24,3 +24,34 @@ semana = [
     {"dia": "Sabado", "ventas": [180, 190, 205]},
     {"dia": "Domingo", "ventas": [90, 100, 95]},
 ]
+
+def analisis_semanal(semana):
+    total_semana = 0
+    mejor_dia = ""
+    max_ventas = 0
+    dias_bajos = []
+
+    for dia_info in semana:
+        dia = dia_info["dia"]
+        ventas = dia_info["ventas"]
+        total_dia = sum(ventas)
+        total_semana += total_dia
+
+        if total_dia > max_ventas:
+            max_ventas = total_dia
+            mejor_dia = dia
+
+        if total_dia < 300:
+            dias_bajos.append(dia)
+
+    promedio_diario = total_semana / len(semana)
+
+    return total_semana, promedio_diario, mejor_dia, dias_bajos
+
+total_semana, promedio_diario, mejor_dia, dias_bajos = analisis_semanal(semana)
+print(f"Total de ventas de la semana: {total_semana}")
+print(f"Promedio diario de ventas: {promedio_diario:.2f}")
+print(f"Mejor día de ventas: {mejor_dia}")
+print("Días con ventas bajas:")
+for dia in dias_bajos:
+    print(f"  {dia}")

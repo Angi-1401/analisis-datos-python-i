@@ -9,3 +9,19 @@
 
 
 clientes = [" ana ", "CARLOS", "mAría", " PEDRO ", "luisa"]
+
+
+def normalizar_clientes(clientes):
+    clientes_normalizados = []
+
+    for cliente in clientes:
+        cliente_normalizado = cliente.strip().title()
+        clientes_normalizados.append(cliente_normalizado)
+    
+    return clientes_normalizados
+
+
+clientes_normalizados = normalizar_clientes(clientes)
+
+print(f"Lista original de clientes: {clientes}")
+print(f"Lista normalizada de clientes: {clientes_normalizados}")

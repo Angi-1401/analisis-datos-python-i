@@ -27,3 +27,30 @@ eventos = [
     ("ERROR", "Tiempo de espera agotado"),
     ("Info", "Proceso finalizado"),
 ]
+
+
+def resumir_logs(eventos):
+    conteo_niveles = {"INFO": 0, "WARN": 0, "ERROR": 0}
+    errores = []
+    invalidos = 0
+
+    for nivel, mensaje in eventos:
+        nivel_normalizado = nivel.upper()
+        if nivel_normalizado in conteo_niveles:
+            conteo_niveles[nivel_normalizado] += 1
+            if nivel_normalizado == "ERROR":
+                errores.append(mensaje)
+        else:
+            invalidos += 1
+
+    return conteo_niveles, errores, invalidos
+
+
+conteo_niveles, errores, invalidos = resumir_logs(eventos)
+print("Conteo de niveles:")
+for nivel, cantidad in conteo_niveles.items():
+    print(f"  {nivel}: {cantidad}")
+print(f"Cantidad de eventos inválidos: {invalidos}")
+print("Mensajes de ERROR:")
+for mensaje in errores:
+    print(f"  {mensaje}")
