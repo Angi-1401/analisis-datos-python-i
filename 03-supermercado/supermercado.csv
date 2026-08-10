@@ -1,0 +1,1001 @@
+﻿IDFactura,Rama,Ciudad,TipoCliente,Genero,ClasificacionProducto,PrecioUnitario,Cantidad,Impuesto5%,MontoVenta,Fecha,Hora,MetodoPago,Costo,PorcentajeGanancia,GananciaNeta,PuntuacionCompra
+750-67-8428,Alex,Yangon,Afiliado,Femenino,Salud y belleza,74.69,7,26.1415,548.9715,1/5/2019,0.547222222,Digital,522.83,4.761904762,26.1415,9.1
+226-31-3081,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,15.28,5,3.82,80.22,3/8/2019,0.436805556,Efectivo,76.4,4.761904762,3.82,9.6
+631-41-3108,Alex,Yangon,Normal,Femenino,Articulos para el hogar,46.33,7,16.2155,340.5255,3/3/2019,0.557638889,Tarjeta,324.31,4.761904762,16.2155,7.4
+123-19-1176,Alex,Yangon,Afiliado,Femenino,Salud y belleza,58.22,8,23.288,489.048,1/27/2019,0.85625,Digital,465.76,4.761904762,23.288,8.4
+373-73-7910,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,86.31,7,30.2085,634.3785,2/8/2019,0.442361111,Digital,604.17,4.761904762,30.2085,5.3
+699-14-3026,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,85.39,7,29.8865,627.6165,3/25/2019,0.770833333,Digital,597.73,4.761904762,29.8865,4.1
+355-53-5943,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,68.84,6,20.652,433.692,2/25/2019,0.608333333,Digital,413.04,4.761904762,20.652,5.8
+315-22-5665,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,73.56,10,36.78,772.38,2/24/2019,0.484722222,Digital,735.6,4.761904762,36.78,8
+665-32-9167,Alex,Yangon,Afiliado,Femenino,Salud y belleza,36.26,2,3.626,76.146,1/10/2019,0.71875,Tarjeta,72.52,4.761904762,3.626,7.2
+692-92-5582,Cairo,Mandalay,Afiliado,Femenino,Comestibles,54.84,3,8.226,172.746,2/20/2019,0.560416667,Tarjeta,164.52,4.761904762,8.226,5.9
+351-62-0822,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,14.48,4,2.896,60.816,2/6/2019,0.754861111,Digital,57.92,4.761904762,2.896,4.5
+529-56-3974,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,25.51,4,5.102,107.142,3/9/2019,0.710416667,Efectivo,102.04,4.761904762,5.102,6.8
+365-64-0515,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,46.95,5,11.7375,246.4875,2/12/2019,0.434027778,Digital,234.75,4.761904762,11.7375,7.1
+252-56-2699,Alex,Yangon,Afiliado,Femenino,Comestibles,43.19,10,21.595,453.495,2/7/2019,0.7,Digital,431.9,4.761904762,21.595,8.2
+829-34-3910,Alex,Yangon,Afiliado,Femenino,Salud y belleza,71.38,10,35.69,749.49,3/29/2019,0.80625,Efectivo,713.8,4.761904762,35.69,5.7
+299-46-1805,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,93.72,6,28.116,590.436,1/15/2019,0.679861111,Efectivo,562.32,4.761904762,28.116,4.5
+656-95-9349,Alex,Yangon,Afiliado,Femenino,Salud y belleza,68.93,7,24.1255,506.6355,3/11/2019,0.460416667,Tarjeta,482.51,4.761904762,24.1255,4.6
+765-26-6951,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,72.61,6,21.783,457.443,1/1/2019,0.44375,Tarjeta,435.66,4.761904762,21.783,6.9
+329-62-1586,Alex,Yangon,Afiliado,Femenino,Comestibles,54.67,3,8.2005,172.2105,1/21/2019,0.75,Tarjeta,164.01,4.761904762,8.2005,8.6
+319-50-3348,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,40.3,2,4.03,84.63,3/11/2019,0.645833333,Digital,80.6,4.761904762,4.03,4.4
+300-71-4605,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,86.04,5,21.51,451.71,2/25/2019,0.475,Digital,430.2,4.761904762,21.51,4.8
+371-85-5789,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,87.98,3,13.197,277.137,3/5/2019,0.444444444,Digital,263.94,4.761904762,13.197,5.1
+273-16-6619,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,33.2,2,3.32,69.72,3/15/2019,0.513888889,Tarjeta,66.4,4.761904762,3.32,4.4
+636-48-8204,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,34.56,5,8.64,181.44,2/17/2019,0.46875,Digital,172.8,4.761904762,8.64,9.9
+549-59-1358,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,88.63,3,13.2945,279.1845,3/2/2019,0.733333333,Digital,265.89,4.761904762,13.2945,6
+227-03-5010,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,52.59,8,21.036,441.756,3/22/2019,0.805555556,Tarjeta,420.72,4.761904762,21.036,8.5
+649-29-6775,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,33.52,1,1.676,35.196,2/8/2019,0.646527778,Efectivo,33.52,4.761904762,1.676,6.7
+189-17-4241,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,87.67,2,8.767,184.107,3/10/2019,0.511805556,Tarjeta,175.34,4.761904762,8.767,7.7
+145-94-9061,Cairo,Mandalay,Afiliado,Femenino,Comestibles,88.36,5,22.09,463.89,1/25/2019,0.825,Efectivo,441.8,4.761904762,22.09,9.6
+848-62-7243,Alex,Yangon,Afiliado,Femenino,Salud y belleza,24.89,9,11.2005,235.2105,3/15/2019,0.65,Efectivo,224.01,4.761904762,11.2005,7.4
+871-79-8483,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,94.13,5,23.5325,494.1825,2/25/2019,0.81875,Tarjeta,470.65,4.761904762,23.5325,4.8
+149-71-6266,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,78.07,9,35.1315,737.7615,1/28/2019,0.529861111,Efectivo,702.63,4.761904762,35.1315,4.5
+640-49-2076,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,83.78,8,33.512,703.752,1/10/2019,0.617361111,Efectivo,670.24,4.761904762,33.512,5.1
+595-11-5460,Alex,Yangon,Afiliado,Femenino,Salud y belleza,96.58,2,9.658,202.818,3/15/2019,0.425,Tarjeta,193.16,4.761904762,9.658,5.1
+183-56-6882,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,99.42,4,19.884,417.564,2/6/2019,0.445833333,Digital,397.68,4.761904762,19.884,7.5
+232-16-2483,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,68.12,1,3.406,71.526,1/7/2019,0.519444444,Digital,68.12,4.761904762,3.406,6.8
+129-29-8530,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,62.62,5,15.655,328.755,3/10/2019,0.802083333,Digital,313.1,4.761904762,15.655,7
+272-65-1806,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,60.88,9,27.396,575.316,1/15/2019,0.720138889,Digital,547.92,4.761904762,27.396,4.7
+333-73-7901,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,54.92,8,21.968,461.328,3/23/2019,0.558333333,Digital,439.36,4.761904762,21.968,7.6
+777-82-7220,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,30.12,8,12.048,253.008,3/3/2019,0.542361111,Efectivo,240.96,4.761904762,12.048,7.7
+280-35-5823,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,86.72,1,4.336,91.056,1/17/2019,0.78125,Digital,86.72,4.761904762,4.336,7.9
+554-53-8700,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,56.11,2,5.611,117.831,2/2/2019,0.424305556,Efectivo,112.22,4.761904762,5.611,6.3
+354-25-5821,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,69.12,6,20.736,435.456,2/8/2019,0.54375,Efectivo,414.72,4.761904762,20.736,5.6
+228-96-1411,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,98.7,8,39.48,829.08,3/4/2019,0.860416667,Efectivo,789.6,4.761904762,39.48,7.6
+617-15-4209,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,15.37,2,1.537,32.277,3/16/2019,0.824305556,Efectivo,30.74,4.761904762,1.537,7.2
+132-32-9879,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,93.96,4,18.792,394.632,3/9/2019,0.75,Efectivo,375.84,4.761904762,18.792,9.5
+370-41-7321,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,56.69,9,25.5105,535.7205,2/27/2019,0.725,Tarjeta,510.21,4.761904762,25.5105,8.4
+727-46-3608,Cairo,Mandalay,Afiliado,Femenino,Comestibles,20.01,9,9.0045,189.0945,2/6/2019,0.657638889,Digital,180.09,4.761904762,9.0045,4.1
+669-54-1719,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,18.93,6,5.679,119.259,2/10/2019,0.53125,Tarjeta,113.58,4.761904762,5.679,8.1
+574-22-5561,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,82.63,10,41.315,867.615,3/19/2019,0.713888889,Digital,826.3,4.761904762,41.315,7.9
+326-78-5178,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,91.4,7,31.99,671.79,2/3/2019,0.429861111,Efectivo,639.8,4.761904762,31.99,9.5
+162-48-8011,Alex,Yangon,Afiliado,Femenino,Comestibles,44.59,5,11.1475,234.0975,2/10/2019,0.631944444,Efectivo,222.95,4.761904762,11.1475,8.5
+616-24-2851,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,17.87,4,3.574,75.054,3/22/2019,0.6125,Digital,71.48,4.761904762,3.574,6.5
+778-71-5554,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,15.43,1,0.7715,16.2015,1/25/2019,0.656944444,Tarjeta,15.43,4.761904762,0.7715,6.1
+242-55-6721,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,16.16,2,1.616,33.936,3/7/2019,0.492361111,Digital,32.32,4.761904762,1.616,6.5
+399-46-5918,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,85.98,8,34.392,722.232,2/28/2019,0.792361111,Efectivo,687.84,4.761904762,34.392,8.2
+106-35-6779,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,44.34,2,4.434,93.114,3/27/2019,0.476388889,Efectivo,88.68,4.761904762,4.434,5.8
+635-40-6220,Alex,Yangon,Afiliado,Femenino,Salud y belleza,89.6,8,35.84,752.64,2/7/2019,0.477777778,Digital,716.8,4.761904762,35.84,6.6
+817-48-8732,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,72.35,10,36.175,759.675,1/20/2019,0.663194444,Efectivo,723.5,4.761904762,36.175,5.4
+120-06-4233,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,30.61,6,9.183,192.843,3/12/2019,0.858333333,Efectivo,183.66,4.761904762,9.183,9.3
+285-68-5083,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,24.74,3,3.711,77.931,2/15/2019,0.740972222,Tarjeta,74.22,4.761904762,3.711,10
+803-83-5989,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,55.73,6,16.719,351.099,2/24/2019,0.454861111,Digital,334.38,4.761904762,16.719,7
+347-34-2234,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,55.07,9,24.7815,520.4115,2/3/2019,0.569444444,Digital,495.63,4.761904762,24.7815,10
+199-75-8169,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,15.81,10,7.905,166.005,3/6/2019,0.51875,Tarjeta,158.1,4.761904762,7.905,8.6
+853-23-2453,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,75.74,4,15.148,318.108,2/14/2019,0.607638889,Efectivo,302.96,4.761904762,15.148,7.6
+877-22-3308,Alex,Yangon,Afiliado,Femenino,Salud y belleza,15.87,10,7.935,166.635,3/13/2019,0.694444444,Efectivo,158.7,4.761904762,7.935,5.8
+838-78-4295,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,33.47,2,3.347,70.287,2/10/2019,0.654861111,Digital,66.94,4.761904762,3.347,6.7
+109-28-2512,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,97.61,6,29.283,614.943,1/7/2019,0.625694444,Digital,585.66,4.761904762,29.283,9.9
+232-11-3025,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,78.77,10,39.385,827.085,1/24/2019,0.419444444,Efectivo,787.7,4.761904762,39.385,6.4
+382-03-4532,Alex,Yangon,Afiliado,Femenino,Salud y belleza,18.33,1,0.9165,19.2465,2/2/2019,0.784722222,Efectivo,18.33,4.761904762,0.9165,4.3
+393-65-2792,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,89.48,10,44.74,939.54,1/6/2019,0.531944444,Tarjeta,894.8,4.761904762,44.74,9.6
+796-12-2025,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,62.12,10,31.06,652.26,2/11/2019,0.679861111,Efectivo,621.2,4.761904762,31.06,5.9
+510-95-6347,Cairo,Mandalay,Afiliado,Femenino,Comestibles,48.52,3,7.278,152.838,3/5/2019,0.761805556,Digital,145.56,4.761904762,7.278,4
+841-35-6630,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,75.91,6,22.773,478.233,3/9/2019,0.764583333,Efectivo,455.46,4.761904762,22.773,8.7
+287-21-9091,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,74.67,9,33.6015,705.6315,1/22/2019,0.454861111,Digital,672.03,4.761904762,33.6015,9.4
+732-94-0499,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,41.65,10,20.825,437.325,1/13/2019,0.711111111,Tarjeta,416.5,4.761904762,20.825,5.4
+263-10-3913,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,49.04,9,22.068,463.428,1/9/2019,0.597222222,Tarjeta,441.36,4.761904762,22.068,8.6
+381-20-0914,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,20.01,9,9.0045,189.0945,1/12/2019,0.658333333,Tarjeta,180.09,4.761904762,9.0045,5.7
+829-49-1914,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,78.31,10,39.155,822.255,3/5/2019,0.683333333,Digital,783.1,4.761904762,39.155,6.6
+756-01-7507,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,20.38,5,5.095,106.995,1/22/2019,0.788888889,Efectivo,101.9,4.761904762,5.095,6
+870-72-4431,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,99.19,6,29.757,624.897,1/21/2019,0.6125,Tarjeta,595.14,4.761904762,29.757,5.5
+847-38-7188,Cairo,Mandalay,Afiliado,Femenino,Comestibles,96.68,3,14.502,304.542,1/26/2019,0.830555556,Digital,290.04,4.761904762,14.502,6.4
+480-63-2856,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,19.25,8,7.7,161.7,1/23/2019,0.775694444,Digital,154,4.761904762,7.7,6.6
+787-56-0757,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,80.36,4,16.072,337.512,2/23/2019,0.78125,Tarjeta,321.44,4.761904762,16.072,8.3
+360-39-5055,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,48.91,5,12.2275,256.7775,3/9/2019,0.428472222,Efectivo,244.55,4.761904762,12.2275,6.6
+730-50-9884,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,83.06,7,29.071,610.491,3/5/2019,0.604861111,Digital,581.42,4.761904762,29.071,4
+362-58-8315,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,76.52,5,19.13,401.73,3/25/2019,0.432638889,Efectivo,382.6,4.761904762,19.13,9.9
+633-44-8566,Alex,Yangon,Afiliado,Femenino,Comestibles,49.38,7,17.283,362.943,3/27/2019,0.857638889,Tarjeta,345.66,4.761904762,17.283,7.3
+504-35-8843,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,42.47,1,2.1235,44.5935,1/2/2019,0.70625,Efectivo,42.47,4.761904762,2.1235,5.7
+318-68-5053,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,76.99,6,23.097,485.037,2/27/2019,0.746527778,Efectivo,461.94,4.761904762,23.097,6.1
+565-80-5980,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,47.38,4,9.476,198.996,1/23/2019,0.434027778,Efectivo,189.52,4.761904762,9.476,7.1
+225-32-0908,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,44.86,10,22.43,471.03,1/26/2019,0.829166667,Digital,448.6,4.761904762,22.43,8.2
+873-51-0671,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,21.98,7,7.693,161.553,1/10/2019,0.695833333,Digital,153.86,4.761904762,7.693,5.1
+152-08-9985,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,64.36,9,28.962,608.202,3/12/2019,0.50625,Tarjeta,579.24,4.761904762,28.962,8.6
+512-91-0811,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,89.75,1,4.4875,94.2375,2/6/2019,0.836805556,Tarjeta,89.75,4.761904762,4.4875,6.6
+594-34-4444,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,97.16,1,4.858,102.018,3/8/2019,0.859722222,Digital,97.16,4.761904762,4.858,7.2
+766-85-7061,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,87.87,10,43.935,922.635,3/29/2019,0.434027778,Digital,878.7,4.761904762,43.935,5.1
+871-39-9221,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,12.45,6,3.735,78.435,2/9/2019,0.549305556,Efectivo,74.7,4.761904762,3.735,4.1
+865-92-6136,Alex,Yangon,Afiliado,Femenino,Comestibles,52.75,3,7.9125,166.1625,3/23/2019,0.427777778,Digital,158.25,4.761904762,7.9125,9.3
+733-01-9107,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,82.7,6,24.81,521.01,3/5/2019,0.759722222,Efectivo,496.2,4.761904762,24.81,7.4
+163-56-7055,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,48.71,1,2.4355,51.1455,3/26/2019,0.805555556,Efectivo,48.71,4.761904762,2.4355,4.1
+189-98-2939,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,78.55,9,35.3475,742.2975,3/1/2019,0.556944444,Efectivo,706.95,4.761904762,35.3475,7.2
+551-21-3069,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,23.07,9,10.3815,218.0115,2/1/2019,0.477083333,Efectivo,207.63,4.761904762,10.3815,4.9
+212-62-1842,Alex,Yangon,Afiliado,Femenino,Comestibles,58.26,6,17.478,367.038,3/28/2019,0.697222222,Efectivo,349.56,4.761904762,17.478,9.9
+716-39-1409,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,30.35,7,10.6225,223.0725,3/19/2019,0.763194444,Efectivo,212.45,4.761904762,10.6225,8
+704-48-3927,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,88.67,10,44.335,931.035,1/12/2019,0.618055556,Digital,886.7,4.761904762,44.335,7.3
+628-34-3388,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,27.38,6,8.214,172.494,1/5/2019,0.870833333,Tarjeta,164.28,4.761904762,8.214,7.9
+630-74-5166,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,62.13,6,18.639,391.419,3/22/2019,0.846527778,Efectivo,372.78,4.761904762,18.639,7.4
+588-01-7461,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,33.98,9,15.291,321.111,3/24/2019,0.446527778,Efectivo,305.82,4.761904762,15.291,4.2
+861-77-0145,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,81.97,10,40.985,860.685,3/3/2019,0.604166667,Efectivo,819.7,4.761904762,40.985,9.2
+479-26-8945,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,16.49,2,1.649,34.629,2/5/2019,0.480555556,Digital,32.98,4.761904762,1.649,4.6
+210-67-5886,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,98.21,3,14.7315,309.3615,2/5/2019,0.445138889,Tarjeta,294.63,4.761904762,14.7315,7.8
+227-78-1148,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,72.84,7,25.494,535.374,2/15/2019,0.530555556,Efectivo,509.88,4.761904762,25.494,8.4
+645-44-1170,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,58.07,9,26.1315,548.7615,1/19/2019,0.838194444,Digital,522.63,4.761904762,26.1315,4.3
+237-01-6122,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,80.79,9,36.3555,763.4655,2/1/2019,0.854861111,Tarjeta,727.11,4.761904762,36.3555,9.5
+225-98-1496,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,27.02,3,4.053,85.113,3/2/2019,0.542361111,Tarjeta,81.06,4.761904762,4.053,7.1
+291-32-1427,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,21.94,5,5.485,115.185,3/5/2019,0.520138889,Digital,109.7,4.761904762,5.485,5.3
+659-65-8956,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,51.36,1,2.568,53.928,1/16/2019,0.643055556,Digital,51.36,4.761904762,2.568,5.2
+642-32-2990,Alex,Yangon,Afiliado,Femenino,Comestibles,10.96,10,5.48,115.08,2/2/2019,0.866666667,Digital,109.6,4.761904762,5.48,6
+378-24-2715,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,53.44,2,5.344,112.224,1/20/2019,0.859722222,Digital,106.88,4.761904762,5.344,4.1
+638-60-7125,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,99.56,8,39.824,836.304,2/14/2019,0.710416667,Tarjeta,796.48,4.761904762,39.824,5.2
+659-36-1684,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,57.12,7,19.992,419.832,1/12/2019,0.501388889,Tarjeta,399.84,4.761904762,19.992,6.5
+219-22-9386,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,99.96,9,44.982,944.622,3/9/2019,0.726388889,Tarjeta,899.64,4.761904762,44.982,4.2
+336-78-2147,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,63.91,8,25.564,536.844,3/13/2019,0.827777778,Tarjeta,511.28,4.761904762,25.564,4.6
+268-27-6179,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,56.47,8,22.588,474.348,3/9/2019,0.622916667,Digital,451.76,4.761904762,22.588,7.3
+668-90-8900,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,93.69,7,32.7915,688.6215,3/10/2019,0.780555556,Tarjeta,655.83,4.761904762,32.7915,4.5
+870-54-3162,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,32.25,5,8.0625,169.3125,1/27/2019,0.559722222,Efectivo,161.25,4.761904762,8.0625,9
+189-08-9157,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,31.73,9,14.2785,299.8485,1/8/2019,0.678472222,Tarjeta,285.57,4.761904762,14.2785,5.9
+663-86-9076,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,68.54,8,27.416,575.736,1/8/2019,0.664583333,Digital,548.32,4.761904762,27.416,8.5
+549-84-7482,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,90.28,9,40.626,853.146,2/8/2019,0.46875,Digital,812.52,4.761904762,40.626,7.2
+191-10-6171,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,39.62,7,13.867,291.207,1/25/2019,0.554166667,Efectivo,277.34,4.761904762,13.867,7.5
+802-70-5316,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,92.13,6,27.639,580.419,3/6/2019,0.856944444,Efectivo,552.78,4.761904762,27.639,8.3
+695-51-0018,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,34.84,4,6.968,146.328,2/10/2019,0.775,Efectivo,139.36,4.761904762,6.968,7.4
+590-83-4591,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,87.45,6,26.235,550.935,2/17/2019,0.611111111,Tarjeta,524.7,4.761904762,26.235,8.8
+483-71-1164,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,81.3,6,24.39,512.19,3/8/2019,0.696527778,Digital,487.8,4.761904762,24.39,5.3
+597-78-7908,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,90.22,3,13.533,284.193,2/18/2019,0.81875,Efectivo,270.66,4.761904762,13.533,6.2
+700-81-1757,Alex,Yangon,Normal,Femenino,Accesorios electronicos,26.31,5,6.5775,138.1275,1/18/2019,0.874305556,Tarjeta,131.55,4.761904762,6.5775,8.8
+354-39-5160,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,34.42,6,10.326,216.846,2/18/2019,0.652083333,Efectivo,206.52,4.761904762,10.326,9.8
+241-72-9525,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,51.91,10,25.955,545.055,2/16/2019,0.514583333,Efectivo,519.1,4.761904762,25.955,8.2
+575-30-8091,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,72.5,8,29,609,3/16/2019,0.809027778,Digital,580,4.761904762,29,9.2
+731-81-9469,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,89.8,10,44.9,942.9,1/23/2019,0.541666667,Tarjeta,898,4.761904762,44.9,5.4
+280-17-4359,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,90.5,10,45.25,950.25,1/25/2019,0.575,Efectivo,905,4.761904762,45.25,8.1
+338-65-2210,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,68.6,10,34.3,720.3,2/5/2019,0.83125,Efectivo,686,4.761904762,34.3,9.1
+488-25-4221,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,30.41,1,1.5205,31.9305,2/22/2019,0.441666667,Tarjeta,30.41,4.761904762,1.5205,8.4
+239-10-7476,Alex,Yangon,Normal,Femenino,Articulos para el hogar,77.95,6,23.385,491.085,1/21/2019,0.692361111,Digital,467.7,4.761904762,23.385,8
+458-41-1477,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,46.26,6,13.878,291.438,3/8/2019,0.715972222,Tarjeta,277.56,4.761904762,13.878,9.5
+685-64-1609,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,30.14,10,15.07,316.47,2/10/2019,0.519444444,Digital,301.4,4.761904762,15.07,9.2
+568-90-5112,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,66.14,4,13.228,277.788,3/19/2019,0.531944444,Tarjeta,264.56,4.761904762,13.228,5.6
+262-47-2794,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,71.86,8,28.744,603.624,3/6/2019,0.629861111,Tarjeta,574.88,4.761904762,28.744,6.2
+238-49-0436,Alex,Yangon,Normal,Masculino,Salud y belleza,32.46,8,12.984,272.664,3/27/2019,0.575,Tarjeta,259.68,4.761904762,12.984,4.9
+608-96-3517,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,91.54,4,18.308,384.468,3/23/2019,0.805555556,Tarjeta,366.16,4.761904762,18.308,4.8
+584-86-7256,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,34.56,7,12.096,254.016,3/11/2019,0.671527778,Tarjeta,241.92,4.761904762,12.096,7.3
+746-94-0204,Alex,Yangon,Normal,Masculino,Accesorios de moda,83.24,9,37.458,786.618,1/29/2019,0.497222222,Tarjeta,749.16,4.761904762,37.458,7.4
+214-17-6927,Giza,Naypyitaw,Normal,Femenino,Comestibles,16.48,6,4.944,103.824,2/7/2019,0.765972222,Digital,98.88,4.761904762,4.944,9.9
+400-89-4171,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,80.97,8,32.388,680.148,1/28/2019,0.545138889,Efectivo,647.76,4.761904762,32.388,9.3
+782-95-9291,Alex,Yangon,Afiliado,Masculino,Comestibles,92.29,5,23.0725,484.5225,2/20/2019,0.663194444,Tarjeta,461.45,4.761904762,23.0725,9
+279-74-2924,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,72.17,1,3.6085,75.7785,1/4/2019,0.819444444,Efectivo,72.17,4.761904762,3.6085,6.1
+307-85-2293,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,50.28,5,12.57,263.97,3/7/2019,0.581944444,Digital,251.4,4.761904762,12.57,9.7
+743-04-1105,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,97.22,9,43.749,918.729,3/30/2019,0.613194444,Digital,874.98,4.761904762,43.749,6
+423-57-2993,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,93.39,6,28.017,588.357,3/27/2019,0.804166667,Digital,560.34,4.761904762,28.017,10
+894-41-5205,Giza,Naypyitaw,Normal,Femenino,Comestibles,43.18,8,17.272,362.712,1/19/2019,0.81875,Tarjeta,345.44,4.761904762,17.272,8.3
+275-28-0149,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,63.69,1,3.1845,66.8745,2/25/2019,0.68125,Efectivo,63.69,4.761904762,3.1845,6
+101-17-6199,Alex,Yangon,Normal,Masculino,Comestibles,45.79,7,16.0265,336.5565,3/13/2019,0.822222222,Tarjeta,320.53,4.761904762,16.0265,7
+423-80-0988,Giza,Naypyitaw,Normal,Masculino,Entrenamiento y viajes,76.4,2,7.64,160.44,1/30/2019,0.820833333,Digital,152.8,4.761904762,7.64,6.5
+548-46-9322,Cairo,Mandalay,Normal,Masculino,Comestibles,39.9,10,19.95,418.95,2/20/2019,0.641666667,Tarjeta,399,4.761904762,19.95,5.9
+505-02-0892,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,42.57,8,17.028,357.588,2/25/2019,0.591666667,Digital,340.56,4.761904762,17.028,5.6
+234-65-2137,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,95.58,10,47.79,1003.59,1/16/2019,0.563888889,Efectivo,955.8,4.761904762,47.79,4.8
+687-47-8271,Alex,Yangon,Normal,Masculino,Accesorios de moda,98.98,10,49.49,1039.29,2/8/2019,0.680555556,Tarjeta,989.8,4.761904762,49.49,8.7
+796-32-9050,Alex,Yangon,Normal,Masculino,Comestibles,51.28,6,15.384,323.064,1/19/2019,0.688194444,Efectivo,307.68,4.761904762,15.384,6.5
+105-31-1824,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,69.52,7,24.332,510.972,2/1/2019,0.631944444,Tarjeta,486.64,4.761904762,24.332,8.5
+249-42-3782,Alex,Yangon,Normal,Masculino,Salud y belleza,70.01,5,17.5025,367.5525,1/3/2019,0.483333333,Digital,350.05,4.761904762,17.5025,5.5
+316-55-4634,Cairo,Mandalay,Afiliado,Masculino,Comestibles,80.05,5,20.0125,420.2625,1/26/2019,0.53125,Tarjeta,400.25,4.761904762,20.0125,9.4
+733-33-4967,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,20.85,8,8.34,175.14,3/3/2019,0.803472222,Efectivo,166.8,4.761904762,8.34,6.3
+608-27-6295,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,52.89,6,15.867,333.207,1/19/2019,0.731944444,Tarjeta,317.34,4.761904762,15.867,9.8
+414-12-7047,Cairo,Mandalay,Normal,Masculino,Comestibles,19.79,8,7.916,166.236,1/18/2019,0.502777778,Digital,158.32,4.761904762,7.916,8.7
+827-26-2100,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,33.84,9,15.228,319.788,3/21/2019,0.68125,Digital,304.56,4.761904762,15.228,8.8
+175-54-2529,Alex,Yangon,Afiliado,Masculino,Comestibles,22.17,8,8.868,186.228,3/3/2019,0.709027778,Tarjeta,177.36,4.761904762,8.868,9.6
+139-52-2867,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,22.51,7,7.8785,165.4485,2/13/2019,0.451388889,Tarjeta,157.57,4.761904762,7.8785,4.8
+407-63-8975,Alex,Yangon,Normal,Masculino,Comestibles,73.88,6,22.164,465.444,3/23/2019,0.802777778,Digital,443.28,4.761904762,22.164,4.4
+342-65-4817,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,86.8,3,13.02,273.42,1/28/2019,0.699305556,Digital,260.4,4.761904762,13.02,9.9
+130-98-8941,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,64.26,7,22.491,472.311,2/9/2019,0.416666667,Efectivo,449.82,4.761904762,22.491,5.7
+434-83-9547,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,38.47,8,15.388,323.148,1/23/2019,0.49375,Efectivo,307.76,4.761904762,15.388,7.7
+851-28-6367,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,15.5,10,7.75,162.75,3/23/2019,0.454861111,Digital,155,4.761904762,7.75,8
+824-88-3614,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,34.31,8,13.724,288.204,1/25/2019,0.625,Digital,274.48,4.761904762,13.724,5.7
+586-25-0848,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,12.34,7,4.319,90.699,3/4/2019,0.471527778,Tarjeta,86.38,4.761904762,4.319,6.7
+895-66-0685,Cairo,Mandalay,Afiliado,Masculino,Comestibles,18.08,3,2.712,56.952,3/5/2019,0.823611111,Digital,54.24,4.761904762,2.712,8
+305-14-0245,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,94.49,8,37.796,793.716,3/3/2019,0.791666667,Digital,755.92,4.761904762,37.796,7.5
+732-04-5373,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,46.47,4,9.294,195.174,2/8/2019,0.453472222,Efectivo,185.88,4.761904762,9.294,7
+400-60-7251,Alex,Yangon,Normal,Masculino,Articulos para el hogar,74.07,1,3.7035,77.7735,2/10/2019,0.534722222,Digital,74.07,4.761904762,3.7035,9.9
+593-65-1552,Giza,Naypyitaw,Normal,Femenino,Articulos para el hogar,69.81,4,13.962,293.202,1/28/2019,0.868055556,Tarjeta,279.24,4.761904762,13.962,5.9
+284-34-9626,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,77.04,3,11.556,242.676,2/11/2019,0.44375,Tarjeta,231.12,4.761904762,11.556,7.2
+437-58-8131,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,73.52,2,7.352,154.392,1/15/2019,0.570138889,Digital,147.04,4.761904762,7.352,4.6
+286-43-6208,Giza,Naypyitaw,Normal,Femenino,Comestibles,87.8,9,39.51,829.71,3/16/2019,0.797222222,Efectivo,790.2,4.761904762,39.51,9.2
+641-43-2399,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,25.55,4,5.11,107.31,1/26/2019,0.849305556,Digital,102.2,4.761904762,5.11,5.7
+831-07-6050,Alex,Yangon,Normal,Masculino,Accesorios electronicos,32.71,5,8.1775,171.7275,3/19/2019,0.479166667,Tarjeta,163.55,4.761904762,8.1775,9.9
+556-86-3144,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,74.29,1,3.7145,78.0045,1/13/2019,0.8125,Efectivo,74.29,4.761904762,3.7145,5
+848-24-9445,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,43.7,2,4.37,91.77,3/26/2019,0.752083333,Efectivo,87.4,4.761904762,4.37,4.9
+856-22-8149,Alex,Yangon,Normal,Femenino,Articulos para el hogar,25.29,1,1.2645,26.5545,3/23/2019,0.425694444,Digital,25.29,4.761904762,1.2645,6.1
+699-01-4164,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,41.5,4,8.3,174.3,3/12/2019,0.831944444,Tarjeta,166,4.761904762,8.3,8.2
+420-11-4919,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,71.39,5,17.8475,374.7975,2/17/2019,0.83125,Tarjeta,356.95,4.761904762,17.8475,5.5
+606-80-4905,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,19.15,6,5.745,120.645,1/29/2019,0.417361111,Tarjeta,114.9,4.761904762,5.745,6.8
+542-41-0513,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,57.49,4,11.498,241.458,3/15/2019,0.497916667,Efectivo,229.96,4.761904762,11.498,6.6
+426-39-2418,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,61.41,7,21.4935,451.3635,1/14/2019,0.418055556,Efectivo,429.87,4.761904762,21.4935,9.8
+875-46-5808,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,25.9,10,12.95,271.95,2/6/2019,0.61875,Digital,259,4.761904762,12.95,8.7
+394-43-4238,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,17.77,5,4.4425,93.2925,2/15/2019,0.529166667,Tarjeta,88.85,4.761904762,4.4425,5.4
+749-24-1565,Alex,Yangon,Normal,Femenino,Salud y belleza,23.03,9,10.3635,217.6335,1/3/2019,0.501388889,Digital,207.27,4.761904762,10.3635,7.9
+672-51-8681,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,66.65,9,29.9925,629.8425,1/4/2019,0.763194444,Tarjeta,599.85,4.761904762,29.9925,9.7
+263-87-5680,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,28.53,10,14.265,299.565,3/18/2019,0.734722222,Digital,285.3,4.761904762,14.265,7.8
+573-58-9734,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,30.37,3,4.5555,95.6655,3/28/2019,0.570138889,Digital,91.11,4.761904762,4.5555,5.1
+817-69-8206,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,99.73,9,44.8785,942.4485,3/2/2019,0.820833333,Tarjeta,897.57,4.761904762,44.8785,6.5
+888-02-0338,Alex,Yangon,Normal,Masculino,Accesorios electronicos,26.23,9,11.8035,247.8735,1/25/2019,0.85,Digital,236.07,4.761904762,11.8035,5.9
+677-11-0152,Giza,Naypyitaw,Normal,Femenino,Comestibles,93.26,9,41.967,881.307,1/16/2019,0.755555556,Efectivo,839.34,4.761904762,41.967,8.8
+142-63-6033,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,92.36,5,23.09,484.89,3/20/2019,0.803472222,Digital,461.8,4.761904762,23.09,4.9
+656-16-1063,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,46.42,3,6.963,146.223,1/4/2019,0.558333333,Tarjeta,139.26,4.761904762,6.963,4.4
+891-58-8335,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,29.61,7,10.3635,217.6335,3/11/2019,0.661805556,Efectivo,207.27,4.761904762,10.3635,6.5
+802-43-8934,Alex,Yangon,Normal,Masculino,Articulos para el hogar,18.28,1,0.914,19.194,3/22/2019,0.628472222,Tarjeta,18.28,4.761904762,0.914,8.3
+560-30-5617,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,24.77,5,6.1925,130.0425,3/24/2019,0.76875,Efectivo,123.85,4.761904762,6.1925,8.5
+319-74-2561,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,94.64,3,14.196,298.116,2/21/2019,0.704861111,Efectivo,283.92,4.761904762,14.196,5.5
+549-03-9315,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,94.87,8,37.948,796.908,2/12/2019,0.540277778,Digital,758.96,4.761904762,37.948,8.7
+790-29-1172,Cairo,Mandalay,Normal,Femenino,Comestibles,57.34,3,8.601,180.621,3/10/2019,0.790972222,Tarjeta,172.02,4.761904762,8.601,7.9
+239-36-3640,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,45.35,6,13.605,285.705,1/31/2019,0.572222222,Digital,272.1,4.761904762,13.605,6.1
+468-01-2051,Cairo,Mandalay,Normal,Masculino,Comestibles,62.08,7,21.728,456.288,3/6/2019,0.573611111,Digital,434.56,4.761904762,21.728,5.4
+389-25-3394,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,11.81,5,2.9525,62.0025,2/17/2019,0.754166667,Efectivo,59.05,4.761904762,2.9525,9.4
+279-62-1445,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,12.54,1,0.627,13.167,2/21/2019,0.526388889,Efectivo,12.54,4.761904762,0.627,8.2
+213-72-6612,Alex,Yangon,Normal,Masculino,Comestibles,43.25,2,4.325,90.825,3/20/2019,0.663888889,Efectivo,86.5,4.761904762,4.325,6.2
+746-68-6593,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,87.16,2,8.716,183.036,1/11/2019,0.603472222,Tarjeta,174.32,4.761904762,8.716,9.7
+836-82-5858,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,69.37,9,31.2165,655.5465,1/26/2019,0.801388889,Digital,624.33,4.761904762,31.2165,4
+583-72-1480,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,37.06,4,7.412,155.652,1/31/2019,0.683333333,Digital,148.24,4.761904762,7.412,9.7
+466-61-5506,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,90.7,6,27.21,571.41,2/26/2019,0.452777778,Efectivo,544.2,4.761904762,27.21,5.3
+721-86-6247,Alex,Yangon,Normal,Femenino,Articulos para el hogar,63.42,8,25.368,532.728,3/11/2019,0.538194444,Digital,507.36,4.761904762,25.368,7.4
+289-65-5721,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,81.37,2,8.137,170.877,1/26/2019,0.811111111,Efectivo,162.74,4.761904762,8.137,6.5
+545-46-3100,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,10.59,3,1.5885,33.3585,3/12/2019,0.577777778,Tarjeta,31.77,4.761904762,1.5885,8.7
+418-02-5978,Cairo,Mandalay,Normal,Femenino,Salud y belleza,84.09,9,37.8405,794.6505,2/11/2019,0.454166667,Efectivo,756.81,4.761904762,37.8405,8
+269-04-5750,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,73.82,4,14.764,310.044,2/21/2019,0.771527778,Efectivo,295.28,4.761904762,14.764,6.7
+157-13-5295,Alex,Yangon,Afiliado,Masculino,Salud y belleza,51.94,10,25.97,545.37,3/9/2019,0.766666667,Digital,519.4,4.761904762,25.97,6.5
+645-78-8093,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,93.14,2,9.314,195.594,1/20/2019,0.75625,Digital,186.28,4.761904762,9.314,4.1
+211-30-9270,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,17.41,5,4.3525,91.4025,1/28/2019,0.636111111,Tarjeta,87.05,4.761904762,4.3525,4.9
+755-12-3214,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,44.22,5,11.055,232.155,3/5/2019,0.713194444,Tarjeta,221.1,4.761904762,11.055,8.6
+346-84-3103,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,13.22,5,3.305,69.405,3/2/2019,0.809722222,Efectivo,66.1,4.761904762,3.305,4.3
+478-06-7835,Alex,Yangon,Normal,Masculino,Accesorios de moda,89.69,1,4.4845,94.1745,1/11/2019,0.472222222,Digital,89.69,4.761904762,4.4845,4.9
+540-11-4336,Alex,Yangon,Normal,Masculino,Comestibles,24.94,9,11.223,235.683,1/11/2019,0.700694444,Tarjeta,224.46,4.761904762,11.223,5.6
+448-81-5016,Alex,Yangon,Normal,Masculino,Salud y belleza,59.77,2,5.977,125.517,3/11/2019,0.500694444,Tarjeta,119.54,4.761904762,5.977,5.8
+142-72-4741,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,93.2,2,9.32,195.72,2/28/2019,0.775694444,Tarjeta,186.4,4.761904762,9.32,6
+217-58-1179,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,62.65,4,12.53,263.13,1/5/2019,0.475694444,Efectivo,250.6,4.761904762,12.53,4.2
+376-02-8238,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,93.87,8,37.548,788.508,2/2/2019,0.779166667,Tarjeta,750.96,4.761904762,37.548,8.3
+530-90-9855,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,47.59,8,19.036,399.756,1/1/2019,0.615972222,Efectivo,380.72,4.761904762,19.036,5.7
+866-05-7563,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,81.4,3,12.21,256.41,2/9/2019,0.821527778,Efectivo,244.2,4.761904762,12.21,4.8
+604-70-6476,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,17.94,5,4.485,94.185,1/23/2019,0.586111111,Digital,89.7,4.761904762,4.485,6.8
+799-71-1548,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,77.72,4,15.544,326.424,1/7/2019,0.674305556,Tarjeta,310.88,4.761904762,15.544,8.8
+785-13-7708,Cairo,Mandalay,Normal,Masculino,Comestibles,73.06,7,25.571,536.991,1/14/2019,0.795833333,Tarjeta,511.42,4.761904762,25.571,4.2
+845-51-0542,Cairo,Mandalay,Afiliado,Masculino,Comestibles,46.55,9,20.9475,439.8975,2/2/2019,0.648611111,Digital,418.95,4.761904762,20.9475,6.4
+662-47-5456,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,35.19,10,17.595,369.495,3/17/2019,0.795833333,Tarjeta,351.9,4.761904762,17.595,8.4
+883-17-4236,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,14.39,2,1.439,30.219,3/2/2019,0.822222222,Tarjeta,28.78,4.761904762,1.439,7.2
+290-68-2984,Alex,Yangon,Normal,Masculino,Articulos para el hogar,23.75,4,4.75,99.75,3/16/2019,0.473611111,Efectivo,95,4.761904762,4.75,5.2
+704-11-6354,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,58.9,8,23.56,494.76,1/6/2019,0.474305556,Efectivo,471.2,4.761904762,23.56,8.9
+110-48-7033,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,32.62,4,6.524,137.004,1/29/2019,0.591666667,Efectivo,130.48,4.761904762,6.524,9
+366-93-0948,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,66.35,1,3.3175,69.6675,1/31/2019,0.448611111,Tarjeta,66.35,4.761904762,3.3175,9.7
+729-09-9681,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,25.91,6,7.773,163.233,2/5/2019,0.427777778,Digital,155.46,4.761904762,7.773,8.7
+151-16-1484,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,32.25,4,6.45,135.45,2/13/2019,0.526388889,Digital,129,4.761904762,6.45,6.5
+380-94-4661,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,65.94,4,13.188,276.948,2/7/2019,0.545138889,Tarjeta,263.76,4.761904762,13.188,6.9
+850-41-9669,Alex,Yangon,Normal,Femenino,Accesorios electronicos,75.06,9,33.777,709.317,3/19/2019,0.559027778,Digital,675.54,4.761904762,33.777,6.2
+821-07-3596,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,16.45,4,3.29,69.09,3/7/2019,0.620138889,Digital,65.8,4.761904762,3.29,5.6
+655-85-5130,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,38.3,4,7.66,160.86,3/13/2019,0.806944444,Efectivo,153.2,4.761904762,7.66,5.7
+447-15-7839,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,22.24,10,11.12,233.52,2/9/2019,0.458333333,Efectivo,222.4,4.761904762,11.12,4.2
+154-74-7179,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,54.45,1,2.7225,57.1725,2/26/2019,0.808333333,Digital,54.45,4.761904762,2.7225,7.9
+253-12-6086,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,98.4,7,34.44,723.24,3/12/2019,0.529861111,Tarjeta,688.8,4.761904762,34.44,8.7
+808-65-0703,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,35.47,4,7.094,148.974,3/14/2019,0.723611111,Tarjeta,141.88,4.761904762,7.094,6.9
+571-94-0759,Cairo,Mandalay,Afiliado,Femenino,Comestibles,74.6,10,37.3,783.3,1/8/2019,0.871527778,Efectivo,746,4.761904762,37.3,9.5
+144-51-6085,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,70.74,4,14.148,297.108,1/5/2019,0.670138889,Tarjeta,282.96,4.761904762,14.148,4.4
+731-14-2199,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,35.54,10,17.77,373.17,1/4/2019,0.565277778,Digital,355.4,4.761904762,17.77,7
+783-09-1637,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,67.43,5,16.8575,354.0075,3/6/2019,0.759027778,Digital,337.15,4.761904762,16.8575,6.3
+687-15-1097,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,21.12,2,2.112,44.352,1/3/2019,0.803472222,Efectivo,42.24,4.761904762,2.112,9.7
+126-54-1082,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,21.54,9,9.693,203.553,1/7/2019,0.488888889,Tarjeta,193.86,4.761904762,9.693,8.8
+633-91-1052,Alex,Yangon,Normal,Femenino,Articulos para el hogar,12.03,2,1.203,25.263,1/27/2019,0.660416667,Efectivo,24.06,4.761904762,1.203,5.1
+477-24-6490,Cairo,Mandalay,Normal,Femenino,Salud y belleza,99.71,6,29.913,628.173,2/26/2019,0.702777778,Digital,598.26,4.761904762,29.913,7.9
+566-19-5475,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,47.97,7,16.7895,352.5795,1/7/2019,0.869444444,Efectivo,335.79,4.761904762,16.7895,6.2
+526-86-8552,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,21.82,10,10.91,229.11,1/7/2019,0.733333333,Efectivo,218.2,4.761904762,10.91,7.1
+376-56-3573,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,95.42,4,19.084,400.764,2/2/2019,0.557638889,Digital,381.68,4.761904762,19.084,6.4
+537-72-0426,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,70.99,10,35.495,745.395,3/20/2019,0.686111111,Efectivo,709.9,4.761904762,35.495,5.7
+828-61-5674,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,44.02,10,22.01,462.21,3/20/2019,0.83125,Tarjeta,440.2,4.761904762,22.01,9.6
+136-08-6195,Alex,Yangon,Normal,Femenino,Articulos para el hogar,69.96,8,27.984,587.664,2/15/2019,0.709027778,Tarjeta,559.68,4.761904762,27.984,6.4
+523-38-0215,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,37,1,1.85,38.85,3/6/2019,0.561805556,Tarjeta,37,4.761904762,1.85,7.9
+490-29-1201,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,15.34,1,0.767,16.107,1/6/2019,0.464583333,Efectivo,15.34,4.761904762,0.767,6.5
+667-92-0055,Alex,Yangon,Afiliado,Masculino,Salud y belleza,99.83,6,29.949,628.929,3/4/2019,0.626388889,Digital,598.98,4.761904762,29.949,8.5
+565-17-3836,Alex,Yangon,Afiliado,Femenino,Salud y belleza,47.67,4,9.534,200.214,3/12/2019,0.597916667,Efectivo,190.68,4.761904762,9.534,9.1
+498-41-1961,Cairo,Mandalay,Normal,Masculino,Salud y belleza,66.68,5,16.67,350.07,2/20/2019,0.750694444,Efectivo,333.4,4.761904762,16.67,7.6
+593-95-4461,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,74.86,1,3.743,78.603,3/24/2019,0.617361111,Efectivo,74.86,4.761904762,3.743,6.9
+226-71-3580,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,23.75,9,10.6875,224.4375,1/31/2019,0.501388889,Efectivo,213.75,4.761904762,10.6875,9.5
+283-79-9594,Cairo,Mandalay,Normal,Femenino,Comestibles,48.51,7,16.9785,356.5485,1/25/2019,0.5625,Tarjeta,339.57,4.761904762,16.9785,5.2
+430-60-3493,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,94.88,7,33.208,697.368,2/3/2019,0.609722222,Efectivo,664.16,4.761904762,33.208,4.2
+139-20-0155,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,40.3,10,20.15,423.15,1/24/2019,0.734027778,Tarjeta,403,4.761904762,20.15,7
+558-80-4082,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,27.85,7,9.7475,204.6975,3/14/2019,0.722222222,Digital,194.95,4.761904762,9.7475,6
+278-97-7759,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,62.48,1,3.124,65.604,2/18/2019,0.853472222,Efectivo,62.48,4.761904762,3.124,4.7
+316-68-6352,Alex,Yangon,Afiliado,Femenino,Comestibles,36.36,2,3.636,76.356,1/21/2019,0.416666667,Efectivo,72.72,4.761904762,3.636,7.1
+585-03-5943,Cairo,Mandalay,Normal,Masculino,Salud y belleza,18.11,10,9.055,190.155,3/13/2019,0.490277778,Digital,181.1,4.761904762,9.055,5.9
+211-05-0490,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,51.92,5,12.98,272.58,3/3/2019,0.570833333,Efectivo,259.6,4.761904762,12.98,7.5
+727-75-6477,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,28.84,4,5.768,121.128,3/29/2019,0.613888889,Efectivo,115.36,4.761904762,5.768,6.4
+744-02-5987,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,78.38,6,23.514,493.794,1/10/2019,0.594444444,Digital,470.28,4.761904762,23.514,5.8
+307-83-9164,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,60.01,4,12.002,252.042,1/25/2019,0.6625,Efectivo,240.04,4.761904762,12.002,4.5
+779-06-0012,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,88.61,1,4.4305,93.0405,1/19/2019,0.43125,Efectivo,88.61,4.761904762,4.4305,7.7
+446-47-6729,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,99.82,2,9.982,209.622,1/2/2019,0.75625,Tarjeta,199.64,4.761904762,9.982,6.7
+573-10-3877,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,39.01,1,1.9505,40.9605,3/12/2019,0.698611111,Tarjeta,39.01,4.761904762,1.9505,4.7
+735-06-4124,Giza,Naypyitaw,Normal,Masculino,Comestibles,48.61,1,2.4305,51.0405,2/25/2019,0.646527778,Efectivo,48.61,4.761904762,2.4305,4.4
+439-54-7422,Alex,Yangon,Normal,Femenino,Accesorios electronicos,51.19,4,10.238,214.998,3/18/2019,0.71875,Tarjeta,204.76,4.761904762,10.238,4.7
+396-90-2219,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,14.96,8,5.984,125.664,2/23/2019,0.520138889,Efectivo,119.68,4.761904762,5.984,8.6
+411-77-0180,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,72.2,7,25.27,530.67,3/26/2019,0.843055556,Digital,505.4,4.761904762,25.27,4.3
+286-01-5402,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,40.23,7,14.0805,295.6905,3/30/2019,0.556944444,Efectivo,281.61,4.761904762,14.0805,9.6
+803-17-8013,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,88.79,8,35.516,745.836,2/17/2019,0.714583333,Efectivo,710.32,4.761904762,35.516,4.1
+512-98-1403,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,26.48,3,3.972,83.412,3/21/2019,0.444444444,Digital,79.44,4.761904762,3.972,4.7
+848-42-2560,Alex,Yangon,Normal,Femenino,Accesorios de moda,81.91,2,8.191,172.011,3/5/2019,0.738194444,Efectivo,163.82,4.761904762,8.191,7.8
+532-59-7201,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,79.93,6,23.979,503.559,1/31/2019,0.586111111,Efectivo,479.58,4.761904762,23.979,5.5
+181-94-6432,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,69.33,2,6.933,145.593,2/5/2019,0.795138889,Digital,138.66,4.761904762,6.933,9.7
+870-76-1733,Alex,Yangon,Afiliado,Femenino,Comestibles,14.23,5,3.5575,74.7075,2/1/2019,0.422222222,Tarjeta,71.15,4.761904762,3.5575,4.4
+423-64-4619,Alex,Yangon,Afiliado,Femenino,Salud y belleza,15.55,9,6.9975,146.9475,3/7/2019,0.55,Efectivo,139.95,4.761904762,6.9975,5
+227-07-4446,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,78.13,10,39.065,820.365,2/10/2019,0.86875,Efectivo,781.3,4.761904762,39.065,4.4
+174-36-3675,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,99.37,2,9.937,208.677,2/14/2019,0.728472222,Efectivo,198.74,4.761904762,9.937,5.2
+428-83-5800,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,21.08,3,3.162,66.402,2/9/2019,0.434027778,Efectivo,63.24,4.761904762,3.162,7.3
+603-07-0961,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,74.79,5,18.6975,392.6475,1/10/2019,0.481944444,Efectivo,373.95,4.761904762,18.6975,4.9
+704-20-4138,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,29.67,7,10.3845,218.0745,3/11/2019,0.790277778,Tarjeta,207.69,4.761904762,10.3845,8.1
+787-15-1757,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,44.07,4,8.814,185.094,2/18/2019,0.686111111,Digital,176.28,4.761904762,8.814,8.4
+649-11-3678,Giza,Naypyitaw,Normal,Femenino,Comestibles,22.93,9,10.3185,216.6885,2/26/2019,0.851388889,Efectivo,206.37,4.761904762,10.3185,5.5
+622-20-1945,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,39.42,1,1.971,41.391,1/18/2019,0.630555556,Efectivo,39.42,4.761904762,1.971,8.4
+372-94-8041,Alex,Yangon,Normal,Masculino,Salud y belleza,15.26,6,4.578,96.138,2/15/2019,0.752083333,Digital,91.56,4.761904762,4.578,9.8
+563-91-7120,Alex,Yangon,Normal,Femenino,Accesorios de moda,61.77,5,15.4425,324.2925,3/8/2019,0.55625,Efectivo,308.85,4.761904762,15.4425,6.7
+746-54-5508,Alex,Yangon,Normal,Masculino,Articulos para el hogar,21.52,6,6.456,135.576,1/17/2019,0.533333333,Tarjeta,129.12,4.761904762,6.456,9.4
+276-54-0879,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,97.74,4,19.548,410.508,3/12/2019,0.828472222,Digital,390.96,4.761904762,19.548,6.4
+815-11-1168,Alex,Yangon,Afiliado,Masculino,Comestibles,99.78,5,24.945,523.845,3/9/2019,0.797916667,Efectivo,498.9,4.761904762,24.945,5.4
+719-76-3868,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,94.26,4,18.852,395.892,3/12/2019,0.6875,Efectivo,377.04,4.761904762,18.852,8.6
+730-61-8757,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,51.13,4,10.226,214.746,1/25/2019,0.424305556,Tarjeta,204.52,4.761904762,10.226,4
+340-66-0321,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,36.36,4,7.272,152.712,3/25/2019,0.546527778,Efectivo,145.44,4.761904762,7.272,7.6
+868-81-1752,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,22.02,9,9.909,208.089,2/7/2019,0.783333333,Efectivo,198.18,4.761904762,9.909,6.8
+634-97-8956,Alex,Yangon,Normal,Masculino,Comestibles,32.9,3,4.935,103.635,2/17/2019,0.727083333,Tarjeta,98.7,4.761904762,4.935,9.1
+566-71-1091,Alex,Yangon,Normal,Masculino,Accesorios de moda,77.02,5,19.255,404.355,2/3/2019,0.665972222,Efectivo,385.1,4.761904762,19.255,5.5
+442-48-3607,Alex,Yangon,Afiliado,Masculino,Comestibles,23.48,2,2.348,49.308,3/14/2019,0.472916667,Tarjeta,46.96,4.761904762,2.348,7.9
+835-16-0096,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,14.7,5,3.675,77.175,3/24/2019,0.575,Digital,73.5,4.761904762,3.675,8.5
+527-09-6272,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,28.45,5,7.1125,149.3625,3/21/2019,0.428472222,Tarjeta,142.25,4.761904762,7.1125,9.1
+898-04-2717,Alex,Yangon,Normal,Masculino,Accesorios de moda,76.4,9,34.38,721.98,3/19/2019,0.659027778,Digital,687.6,4.761904762,34.38,7.5
+692-27-8933,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,57.95,6,17.385,365.085,2/24/2019,0.543055556,Efectivo,347.7,4.761904762,17.385,5.2
+633-09-3463,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,47.65,3,7.1475,150.0975,3/28/2019,0.540277778,Tarjeta,142.95,4.761904762,7.1475,9.5
+374-17-3652,Cairo,Mandalay,Afiliado,Femenino,Comestibles,42.82,9,19.269,404.649,2/5/2019,0.643055556,Tarjeta,385.38,4.761904762,19.269,8.9
+378-07-7001,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,48.09,3,7.2135,151.4835,2/10/2019,0.765972222,Tarjeta,144.27,4.761904762,7.2135,7.8
+433-75-6987,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,55.97,7,19.5895,411.3795,3/5/2019,0.795833333,Digital,391.79,4.761904762,19.5895,8.9
+873-95-4984,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,76.9,7,26.915,565.215,2/15/2019,0.847916667,Efectivo,538.3,4.761904762,26.915,7.7
+416-13-5917,Giza,Naypyitaw,Normal,Femenino,Comestibles,97.03,5,24.2575,509.4075,1/30/2019,0.683333333,Digital,485.15,4.761904762,24.2575,9.3
+150-89-8043,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,44.65,3,6.6975,140.6475,2/14/2019,0.627777778,Efectivo,133.95,4.761904762,6.6975,6.2
+135-84-8019,Alex,Yangon,Normal,Femenino,Accesorios de moda,77.93,9,35.0685,736.4385,2/27/2019,0.673611111,Digital,701.37,4.761904762,35.0685,7.6
+441-94-7118,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,71.95,1,3.5975,75.5475,2/4/2019,0.509722222,Efectivo,71.95,4.761904762,3.5975,7.3
+725-96-3778,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,89.25,8,35.7,749.7,1/20/2019,0.425694444,Efectivo,714,4.761904762,35.7,4.7
+531-80-1784,Alex,Yangon,Normal,Masculino,Accesorios electronicos,26.02,7,9.107,191.247,3/28/2019,0.734722222,Efectivo,182.14,4.761904762,9.107,5.1
+400-45-1220,Cairo,Mandalay,Normal,Femenino,Salud y belleza,13.5,10,6.75,141.75,2/27/2019,0.4625,Tarjeta,135,4.761904762,6.75,4.8
+860-79-0874,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,99.3,10,49.65,1042.65,2/15/2019,0.620138889,Tarjeta,993,4.761904762,49.65,6.6
+834-61-8124,Alex,Yangon,Normal,Masculino,Accesorios electronicos,51.69,7,18.0915,379.9215,1/26/2019,0.765277778,Efectivo,361.83,4.761904762,18.0915,5.5
+115-99-4379,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,54.73,7,19.1555,402.2655,3/14/2019,0.793055556,Tarjeta,383.11,4.761904762,19.1555,8.5
+565-67-6697,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,27,9,12.15,255.15,3/2/2019,0.594444444,Efectivo,243,4.761904762,12.15,4.8
+320-49-6392,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,30.24,1,1.512,31.752,3/4/2019,0.655555556,Efectivo,30.24,4.761904762,1.512,8.4
+889-04-9723,Cairo,Mandalay,Afiliado,Femenino,Comestibles,89.14,4,17.828,374.388,1/7/2019,0.513888889,Tarjeta,356.56,4.761904762,17.828,7.8
+632-90-0281,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,37.55,10,18.775,394.275,3/8/2019,0.834027778,Tarjeta,375.5,4.761904762,18.775,9.3
+554-42-2417,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,95.44,10,47.72,1002.12,1/9/2019,0.572916667,Efectivo,954.4,4.761904762,47.72,5.2
+453-63-6187,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,27.5,3,4.125,86.625,3/1/2019,0.652777778,Digital,82.5,4.761904762,4.125,6.5
+578-80-7669,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,74.97,1,3.7485,78.7185,3/16/2019,0.706944444,Efectivo,74.97,4.761904762,3.7485,5.6
+612-36-5536,Alex,Yangon,Afiliado,Masculino,Comestibles,80.96,8,32.384,680.064,2/17/2019,0.466666667,Tarjeta,647.68,4.761904762,32.384,7.4
+605-72-4132,Giza,Naypyitaw,Normal,Femenino,Comestibles,94.47,8,37.788,793.548,2/27/2019,0.633333333,Efectivo,755.76,4.761904762,37.788,9.1
+471-41-2823,Giza,Naypyitaw,Normal,Masculino,Comestibles,99.79,2,9.979,209.559,3/7/2019,0.859027778,Digital,199.58,4.761904762,9.979,8
+462-67-9126,Alex,Yangon,Normal,Masculino,Articulos para el hogar,73.22,6,21.966,461.286,1/21/2019,0.738888889,Efectivo,439.32,4.761904762,21.966,7.2
+272-27-9238,Giza,Naypyitaw,Normal,Femenino,Comestibles,41.24,4,8.248,173.208,2/19/2019,0.682638889,Efectivo,164.96,4.761904762,8.248,7.1
+834-25-9262,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,81.68,4,16.336,343.056,1/6/2019,0.508333333,Efectivo,326.72,4.761904762,16.336,9.1
+122-61-9553,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,51.32,9,23.094,484.974,3/14/2019,0.814583333,Efectivo,461.88,4.761904762,23.094,5.6
+468-88-0009,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,65.94,4,13.188,276.948,3/24/2019,0.436805556,Efectivo,263.76,4.761904762,13.188,6
+613-59-9758,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,14.36,10,7.18,150.78,1/27/2019,0.602777778,Efectivo,143.6,4.761904762,7.18,5.4
+254-31-0042,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,21.5,9,9.675,203.175,3/6/2019,0.531944444,Tarjeta,193.5,4.761904762,9.675,7.8
+201-86-2184,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,26.26,7,9.191,193.011,2/2/2019,0.819444444,Efectivo,183.82,4.761904762,9.191,9.9
+261-12-8671,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,60.96,2,6.096,128.016,1/25/2019,0.81875,Tarjeta,121.92,4.761904762,6.096,4.9
+730-70-9830,Giza,Naypyitaw,Normal,Femenino,Articulos para el hogar,70.11,6,21.033,441.693,3/14/2019,0.745833333,Digital,420.66,4.761904762,21.033,5.2
+382-25-8917,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,42.08,6,12.624,265.104,1/29/2019,0.517361111,Efectivo,252.48,4.761904762,12.624,8.9
+422-29-8786,Alex,Yangon,Normal,Femenino,Articulos para el hogar,67.09,5,16.7725,352.2225,1/3/2019,0.699305556,Tarjeta,335.45,4.761904762,16.7725,9.1
+667-23-5919,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,96.7,5,24.175,507.675,1/14/2019,0.536111111,Digital,483.5,4.761904762,24.175,7
+843-01-4703,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,35.38,9,15.921,334.341,1/5/2019,0.826388889,Tarjeta,318.42,4.761904762,15.921,9.6
+743-88-1662,Giza,Naypyitaw,Normal,Masculino,Entrenamiento y viajes,95.49,7,33.4215,701.8515,2/22/2019,0.761805556,Digital,668.43,4.761904762,33.4215,8.7
+595-86-2894,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,96.98,4,19.396,407.316,2/6/2019,0.722222222,Digital,387.92,4.761904762,19.396,9.4
+182-69-8360,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,23.65,4,4.73,99.33,1/30/2019,0.563888889,Tarjeta,94.6,4.761904762,4.73,4
+289-15-7034,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,82.33,4,16.466,345.786,1/11/2019,0.442361111,Tarjeta,329.32,4.761904762,16.466,7.5
+462-78-5240,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,26.61,2,2.661,55.881,3/19/2019,0.607638889,Efectivo,53.22,4.761904762,2.661,4.2
+868-52-7573,Cairo,Mandalay,Normal,Femenino,Comestibles,99.69,5,24.9225,523.3725,1/14/2019,0.50625,Efectivo,498.45,4.761904762,24.9225,9.9
+153-58-4872,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,74.89,4,14.978,314.538,3/1/2019,0.647222222,Digital,299.56,4.761904762,14.978,4.2
+662-72-2873,Alex,Yangon,Normal,Femenino,Comestibles,40.94,5,10.235,214.935,1/6/2019,0.581944444,Digital,204.7,4.761904762,10.235,9.9
+525-88-7307,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,75.82,1,3.791,79.611,1/31/2019,0.554861111,Efectivo,75.82,4.761904762,3.791,5.8
+689-16-9784,Giza,Naypyitaw,Normal,Masculino,Comestibles,46.77,6,14.031,294.651,3/11/2019,0.567361111,Efectivo,280.62,4.761904762,14.031,6
+725-56-0833,Alex,Yangon,Normal,Femenino,Salud y belleza,32.32,10,16.16,339.36,2/20/2019,0.700694444,Tarjeta,323.2,4.761904762,16.16,10
+394-41-0748,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,54.07,9,24.3315,510.9615,1/27/2019,0.621527778,Digital,486.63,4.761904762,24.3315,9.5
+596-42-3999,Cairo,Mandalay,Normal,Masculino,Comestibles,18.22,7,6.377,133.917,3/10/2019,0.586111111,Tarjeta,127.54,4.761904762,6.377,6.6
+541-89-9860,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,80.48,3,12.072,253.512,2/15/2019,0.521527778,Efectivo,241.44,4.761904762,12.072,8.1
+173-82-9529,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,37.95,10,18.975,398.475,1/26/2019,0.61875,Efectivo,379.5,4.761904762,18.975,9.7
+563-36-9814,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,76.82,1,3.841,80.661,2/13/2019,0.76875,Digital,76.82,4.761904762,3.841,7.2
+308-47-4913,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,52.26,10,26.13,548.73,3/9/2019,0.53125,Tarjeta,522.6,4.761904762,26.13,6.2
+885-17-6250,Alex,Yangon,Normal,Femenino,Salud y belleza,79.74,1,3.987,83.727,3/6/2019,0.441666667,Digital,79.74,4.761904762,3.987,7.3
+726-27-2396,Alex,Yangon,Normal,Femenino,Salud y belleza,77.5,5,19.375,406.875,1/24/2019,0.858333333,Digital,387.5,4.761904762,19.375,4.3
+316-01-3952,Alex,Yangon,Normal,Femenino,Comestibles,54.27,5,13.5675,284.9175,3/13/2019,0.594444444,Digital,271.35,4.761904762,13.5675,4.6
+760-54-1821,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,13.59,9,6.1155,128.4255,3/15/2019,0.434722222,Efectivo,122.31,4.761904762,6.1155,5.8
+793-10-3222,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,41.06,6,12.318,258.678,3/5/2019,0.5625,Tarjeta,246.36,4.761904762,12.318,8.3
+346-12-3257,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,19.24,9,8.658,181.818,3/4/2019,0.686111111,Efectivo,173.16,4.761904762,8.658,8
+110-05-6330,Giza,Naypyitaw,Normal,Femenino,Comestibles,39.43,6,11.829,248.409,3/25/2019,0.845833333,Tarjeta,236.58,4.761904762,11.829,9.4
+651-61-0874,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,46.22,4,9.244,194.124,3/12/2019,0.836111111,Tarjeta,184.88,4.761904762,9.244,6.2
+236-86-3015,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,13.98,1,0.699,14.679,2/4/2019,0.568055556,Digital,13.98,4.761904762,0.699,9.8
+831-64-0259,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,39.75,5,9.9375,208.6875,2/22/2019,0.446527778,Digital,198.75,4.761904762,9.9375,9.6
+587-03-7455,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,97.79,7,34.2265,718.7565,2/16/2019,0.729166667,Digital,684.53,4.761904762,34.2265,4.9
+882-40-4577,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,67.26,4,13.452,282.492,1/19/2019,0.644444444,Tarjeta,269.04,4.761904762,13.452,8
+732-67-5346,Alex,Yangon,Normal,Masculino,Comestibles,13.79,5,3.4475,72.3975,1/11/2019,0.796527778,Tarjeta,68.95,4.761904762,3.4475,7.8
+725-32-9708,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,68.71,4,13.742,288.582,1/4/2019,0.792361111,Efectivo,274.84,4.761904762,13.742,4.1
+256-08-8343,Alex,Yangon,Normal,Femenino,Articulos para el hogar,56.53,4,11.306,237.426,3/4/2019,0.825,Digital,226.12,4.761904762,11.306,5.5
+372-26-1506,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,23.82,5,5.955,125.055,1/28/2019,0.808333333,Digital,119.1,4.761904762,5.955,5.4
+244-08-0162,Cairo,Mandalay,Normal,Femenino,Salud y belleza,34.21,10,17.105,359.205,1/2/2019,0.541666667,Efectivo,342.1,4.761904762,17.105,5.1
+569-71-4390,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,21.87,2,2.187,45.927,1/25/2019,0.603472222,Digital,43.74,4.761904762,2.187,6.9
+132-23-6451,Alex,Yangon,Afiliado,Masculino,Salud y belleza,20.97,5,5.2425,110.0925,1/4/2019,0.55625,Efectivo,104.85,4.761904762,5.2425,7.8
+696-90-2548,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,25.84,3,3.876,81.396,3/10/2019,0.788194444,Digital,77.52,4.761904762,3.876,6.6
+472-15-9636,Alex,Yangon,Normal,Masculino,Articulos para el hogar,50.93,8,20.372,427.812,3/22/2019,0.816666667,Digital,407.44,4.761904762,20.372,9.2
+268-03-6164,Cairo,Mandalay,Normal,Masculino,Salud y belleza,96.11,1,4.8055,100.9155,1/25/2019,0.686111111,Digital,96.11,4.761904762,4.8055,7.8
+750-57-9686,Giza,Naypyitaw,Normal,Femenino,Articulos para el hogar,45.38,4,9.076,190.596,1/8/2019,0.575,Tarjeta,181.52,4.761904762,9.076,8.7
+186-09-3669,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,81.51,1,4.0755,85.5855,1/22/2019,0.45625,Digital,81.51,4.761904762,4.0755,9.2
+848-07-1692,Cairo,Mandalay,Normal,Femenino,Salud y belleza,57.22,2,5.722,120.162,1/12/2019,0.717361111,Digital,114.44,4.761904762,5.722,8.3
+745-71-3520,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,25.22,7,8.827,185.367,2/4/2019,0.432638889,Efectivo,176.54,4.761904762,8.827,8.2
+266-76-6436,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,38.6,3,5.79,121.59,3/28/2019,0.58125,Digital,115.8,4.761904762,5.79,7.5
+740-22-2500,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,84.05,3,12.6075,264.7575,1/23/2019,0.561805556,Efectivo,252.15,4.761904762,12.6075,9.8
+271-88-8734,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,97.21,10,48.605,1020.705,2/8/2019,0.541666667,Tarjeta,972.1,4.761904762,48.605,8.7
+301-81-8610,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,25.42,8,10.168,213.528,3/19/2019,0.820833333,Tarjeta,203.36,4.761904762,10.168,6.7
+489-64-4354,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,16.28,1,0.814,17.094,3/9/2019,0.65,Efectivo,16.28,4.761904762,0.814,5
+198-84-7132,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,40.61,9,18.2745,383.7645,1/2/2019,0.569444444,Efectivo,365.49,4.761904762,18.2745,7
+269-10-8440,Alex,Yangon,Afiliado,Masculino,Salud y belleza,53.17,7,18.6095,390.7995,1/21/2019,0.750694444,Efectivo,372.19,4.761904762,18.6095,8.9
+650-98-6268,Cairo,Mandalay,Afiliado,Femenino,Comestibles,20.87,3,3.1305,65.7405,3/20/2019,0.578472222,Tarjeta,62.61,4.761904762,3.1305,8
+741-73-3559,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,67.27,5,16.8175,353.1675,2/27/2019,0.727083333,Efectivo,336.35,4.761904762,16.8175,6.9
+325-77-6186,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,90.65,10,45.325,951.825,3/8/2019,0.453472222,Digital,906.5,4.761904762,45.325,7.3
+286-75-7818,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,69.08,2,6.908,145.068,1/31/2019,0.825,Tarjeta,138.16,4.761904762,6.908,6.9
+574-57-9721,Giza,Naypyitaw,Normal,Masculino,Comestibles,43.27,2,4.327,90.867,3/8/2019,0.703472222,Digital,86.54,4.761904762,4.327,5.7
+459-50-7686,Alex,Yangon,Normal,Femenino,Accesorios electronicos,23.46,6,7.038,147.798,1/13/2019,0.801388889,Digital,140.76,4.761904762,7.038,6.4
+616-87-0016,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,95.54,7,33.439,702.219,3/9/2019,0.608333333,Tarjeta,668.78,4.761904762,33.439,9.6
+837-55-7229,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,47.44,1,2.372,49.812,2/22/2019,0.763194444,Tarjeta,47.44,4.761904762,2.372,6.8
+751-69-0068,Giza,Naypyitaw,Normal,Masculino,Entrenamiento y viajes,99.24,9,44.658,937.818,3/19/2019,0.797916667,Digital,893.16,4.761904762,44.658,9
+257-73-1380,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,82.93,4,16.586,348.306,1/20/2019,0.702083333,Digital,331.72,4.761904762,16.586,9.6
+345-08-4992,Alex,Yangon,Normal,Masculino,Articulos para el hogar,33.99,6,10.197,214.137,3/8/2019,0.650694444,Tarjeta,203.94,4.761904762,10.197,7.7
+549-96-4200,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,17.04,4,3.408,71.568,3/8/2019,0.84375,Digital,68.16,4.761904762,3.408,7
+810-60-6344,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,40.86,8,16.344,343.224,2/7/2019,0.609722222,Tarjeta,326.88,4.761904762,16.344,6.5
+450-28-2866,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,17.44,5,4.36,91.56,1/15/2019,0.809027778,Efectivo,87.2,4.761904762,4.36,8.1
+394-30-3170,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,88.43,8,35.372,742.812,3/22/2019,0.815972222,Tarjeta,707.44,4.761904762,35.372,4.3
+138-17-5109,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,89.21,9,40.1445,843.0345,1/15/2019,0.654166667,Tarjeta,802.89,4.761904762,40.1445,6.5
+192-98-7397,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,12.78,1,0.639,13.419,1/8/2019,0.590972222,Digital,12.78,4.761904762,0.639,9.5
+301-11-9629,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,19.1,7,6.685,140.385,1/15/2019,0.446527778,Efectivo,133.7,4.761904762,6.685,9.7
+390-80-5128,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,19.15,1,0.9575,20.1075,1/28/2019,0.748611111,Tarjeta,19.15,4.761904762,0.9575,9.5
+235-46-8343,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,27.66,10,13.83,290.43,2/14/2019,0.476388889,Tarjeta,276.6,4.761904762,13.83,8.9
+453-12-7053,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,45.74,3,6.861,144.081,3/10/2019,0.734722222,Tarjeta,137.22,4.761904762,6.861,6.5
+296-11-7041,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,27.07,1,1.3535,28.4235,1/12/2019,0.838194444,Tarjeta,27.07,4.761904762,1.3535,5.3
+449-27-2918,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,39.12,1,1.956,41.076,3/26/2019,0.459722222,Tarjeta,39.12,4.761904762,1.956,9.6
+891-01-7034,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,74.71,6,22.413,470.673,1/1/2019,0.796527778,Efectivo,448.26,4.761904762,22.413,6.7
+744-09-5786,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,22.01,6,6.603,138.663,1/2/2019,0.784722222,Efectivo,132.06,4.761904762,6.603,7.6
+727-17-0390,Alex,Yangon,Normal,Femenino,Comestibles,63.61,5,15.9025,333.9525,3/16/2019,0.529861111,Digital,318.05,4.761904762,15.9025,4.8
+568-88-3448,Alex,Yangon,Normal,Masculino,Salud y belleza,25,1,1.25,26.25,3/3/2019,0.63125,Digital,25,4.761904762,1.25,5.5
+187-83-5490,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,20.77,4,4.154,87.234,1/31/2019,0.574305556,Efectivo,83.08,4.761904762,4.154,4.7
+767-54-1907,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,29.56,5,7.39,155.19,2/13/2019,0.707638889,Efectivo,147.8,4.761904762,7.39,6.9
+710-46-4433,Cairo,Mandalay,Afiliado,Femenino,Comestibles,77.4,9,34.83,731.43,2/15/2019,0.59375,Tarjeta,696.6,4.761904762,34.83,4.5
+533-33-5337,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,79.39,10,39.695,833.595,2/7/2019,0.85,Efectivo,793.9,4.761904762,39.695,6.2
+325-90-8763,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,46.57,10,23.285,488.985,1/27/2019,0.581944444,Efectivo,465.7,4.761904762,23.285,7.6
+729-46-7422,Giza,Naypyitaw,Normal,Masculino,Comestibles,35.89,1,1.7945,37.6845,2/23/2019,0.702777778,Tarjeta,35.89,4.761904762,1.7945,7.9
+639-76-1242,Giza,Naypyitaw,Normal,Masculino,Comestibles,40.52,5,10.13,212.73,2/3/2019,0.638194444,Efectivo,202.6,4.761904762,10.13,4.5
+234-03-4040,Cairo,Mandalay,Afiliado,Femenino,Comestibles,73.05,10,36.525,767.025,3/3/2019,0.517361111,Tarjeta,730.5,4.761904762,36.525,8.7
+326-71-2155,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,73.95,4,14.79,310.59,2/3/2019,0.418055556,Efectivo,295.8,4.761904762,14.79,6.1
+320-32-8842,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,22.62,1,1.131,23.751,3/17/2019,0.790277778,Efectivo,22.62,4.761904762,1.131,6.4
+470-32-9057,Alex,Yangon,Afiliado,Masculino,Comestibles,51.34,5,12.835,269.535,3/28/2019,0.646527778,Tarjeta,256.7,4.761904762,12.835,9.1
+878-30-2331,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,54.55,10,27.275,572.775,3/2/2019,0.473611111,Tarjeta,545.5,4.761904762,27.275,7.1
+440-59-5691,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,37.15,7,13.0025,273.0525,2/8/2019,0.55,Tarjeta,260.05,4.761904762,13.0025,7.7
+554-53-3790,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,37.02,6,11.106,233.226,3/22/2019,0.772916667,Efectivo,222.12,4.761904762,11.106,4.5
+746-19-0921,Giza,Naypyitaw,Normal,Masculino,Comestibles,21.58,1,1.079,22.659,2/9/2019,0.418055556,Digital,21.58,4.761904762,1.079,7.2
+233-34-0817,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,98.84,1,4.942,103.782,2/15/2019,0.472916667,Efectivo,98.84,4.761904762,4.942,8.4
+767-05-1286,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,83.77,6,25.131,527.751,1/23/2019,0.506944444,Digital,502.62,4.761904762,25.131,5.4
+340-21-9136,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,40.05,4,8.01,168.21,1/25/2019,0.486111111,Efectivo,160.2,4.761904762,8.01,9.7
+405-31-3305,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,43.13,10,21.565,452.865,2/2/2019,0.771527778,Tarjeta,431.3,4.761904762,21.565,5.5
+731-59-7531,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,72.57,8,29.028,609.588,3/30/2019,0.748611111,Efectivo,580.56,4.761904762,29.028,4.6
+676-39-6028,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,64.44,5,16.11,338.31,3/30/2019,0.711111111,Efectivo,322.2,4.761904762,16.11,6.6
+502-05-1910,Alex,Yangon,Normal,Masculino,Salud y belleza,65.18,3,9.777,205.317,2/25/2019,0.857638889,Tarjeta,195.54,4.761904762,9.777,6.3
+485-30-8700,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,33.26,5,8.315,174.615,3/18/2019,0.673611111,Tarjeta,166.3,4.761904762,8.315,4.2
+598-47-9715,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,84.07,4,16.814,353.094,3/7/2019,0.704166667,Digital,336.28,4.761904762,16.814,4.4
+701-69-8742,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,34.37,10,17.185,360.885,3/16/2019,0.424305556,Digital,343.7,4.761904762,17.185,6.7
+575-67-1508,Alex,Yangon,Normal,Masculino,Accesorios electronicos,38.6,1,1.93,40.53,1/29/2019,0.476388889,Digital,38.6,4.761904762,1.93,6.7
+541-08-3113,Giza,Naypyitaw,Normal,Masculino,Comestibles,65.97,8,26.388,554.148,2/2/2019,0.853472222,Efectivo,527.76,4.761904762,26.388,8.4
+246-11-3901,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,32.8,10,16.4,344.4,2/15/2019,0.508333333,Efectivo,328,4.761904762,16.4,6.2
+674-15-9296,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,37.14,5,9.285,194.985,1/8/2019,0.545138889,Digital,185.7,4.761904762,9.285,5
+305-18-3552,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,60.38,10,30.19,633.99,2/12/2019,0.679861111,Efectivo,603.8,4.761904762,30.19,6
+493-65-6248,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,36.98,10,18.49,388.29,1/1/2019,0.825,Tarjeta,369.8,4.761904762,18.49,7
+438-01-4015,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,49.49,4,9.898,207.858,3/21/2019,0.642361111,Digital,197.96,4.761904762,9.898,6.6
+709-58-4068,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,41.09,10,20.545,431.445,2/28/2019,0.6125,Efectivo,410.9,4.761904762,20.545,7.3
+795-49-7276,Alex,Yangon,Normal,Masculino,Accesorios de moda,37.15,4,7.43,156.03,3/23/2019,0.790972222,Digital,148.6,4.761904762,7.43,8.3
+556-72-8512,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,22.96,1,1.148,24.108,1/30/2019,0.865972222,Efectivo,22.96,4.761904762,1.148,4.3
+627-95-3243,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,77.68,9,34.956,734.076,2/4/2019,0.55625,Digital,699.12,4.761904762,34.956,9.8
+686-41-0932,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,34.7,2,3.47,72.87,3/13/2019,0.825,Digital,69.4,4.761904762,3.47,8.2
+510-09-5628,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,19.66,10,9.83,206.43,3/15/2019,0.763888889,Tarjeta,196.6,4.761904762,9.83,7.2
+608-04-3797,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,25.32,8,10.128,212.688,3/5/2019,0.85,Digital,202.56,4.761904762,10.128,8.7
+148-82-2527,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,12.12,10,6.06,127.26,3/5/2019,0.572222222,Tarjeta,121.2,4.761904762,6.06,8.4
+437-53-3084,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,99.89,2,9.989,209.769,2/26/2019,0.491666667,Digital,199.78,4.761904762,9.989,7.1
+632-32-4574,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,75.92,8,30.368,637.728,3/20/2019,0.593055556,Efectivo,607.36,4.761904762,30.368,5.5
+556-97-7101,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,63.22,2,6.322,132.762,1/1/2019,0.660416667,Efectivo,126.44,4.761904762,6.322,8.5
+862-59-8517,Giza,Naypyitaw,Normal,Femenino,Comestibles,90.24,6,27.072,568.512,1/27/2019,0.470138889,Efectivo,541.44,4.761904762,27.072,6.2
+401-18-8016,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,98.13,1,4.9065,103.0365,1/21/2019,0.733333333,Efectivo,98.13,4.761904762,4.9065,8.9
+420-18-8989,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,51.52,8,20.608,432.768,2/2/2019,0.657638889,Efectivo,412.16,4.761904762,20.608,9.6
+277-63-2961,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,73.97,1,3.6985,77.6685,2/3/2019,0.661805556,Tarjeta,73.97,4.761904762,3.6985,5.4
+573-98-8548,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,31.9,1,1.595,33.495,1/5/2019,0.527777778,Digital,31.9,4.761904762,1.595,9.1
+620-02-2046,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,69.4,2,6.94,145.74,1/27/2019,0.825,Digital,138.8,4.761904762,6.94,9
+282-35-2475,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,93.31,2,9.331,195.951,3/25/2019,0.745138889,Efectivo,186.62,4.761904762,9.331,6.3
+511-54-3087,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,88.45,1,4.4225,92.8725,2/25/2019,0.691666667,Tarjeta,88.45,4.761904762,4.4225,9.5
+726-29-6793,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,24.18,8,9.672,203.112,1/28/2019,0.870833333,Digital,193.44,4.761904762,9.672,9.8
+387-49-4215,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,48.5,3,7.275,152.775,1/8/2019,0.534722222,Efectivo,145.5,4.761904762,7.275,6.7
+862-17-9201,Cairo,Mandalay,Normal,Femenino,Comestibles,84.05,6,25.215,529.515,1/29/2019,0.45,Tarjeta,504.3,4.761904762,25.215,7.7
+291-21-5991,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,61.29,5,15.3225,321.7725,3/29/2019,0.602777778,Efectivo,306.45,4.761904762,15.3225,7
+602-80-9671,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,15.95,6,4.785,100.485,2/9/2019,0.71875,Tarjeta,95.7,4.761904762,4.785,5.1
+347-72-6115,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,90.74,7,31.759,666.939,1/16/2019,0.752083333,Tarjeta,635.18,4.761904762,31.759,6.2
+209-61-0206,Alex,Yangon,Normal,Femenino,Articulos para el hogar,42.91,5,10.7275,225.2775,1/5/2019,0.728472222,Digital,214.55,4.761904762,10.7275,6.1
+595-27-4851,Alex,Yangon,Normal,Femenino,Accesorios de moda,54.28,7,18.998,398.958,1/27/2019,0.753472222,Digital,379.96,4.761904762,18.998,9.3
+189-52-0236,Alex,Yangon,Normal,Masculino,Accesorios electronicos,99.55,7,34.8425,731.6925,3/14/2019,0.504861111,Efectivo,696.85,4.761904762,34.8425,7.6
+503-07-0930,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,58.39,7,20.4365,429.1665,2/23/2019,0.825694444,Tarjeta,408.73,4.761904762,20.4365,8.2
+413-20-6708,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,51.47,1,2.5735,54.0435,3/18/2019,0.661111111,Digital,51.47,4.761904762,2.5735,8.5
+425-85-2085,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,54.86,5,13.715,288.015,3/29/2019,0.7,Digital,274.3,4.761904762,13.715,9.8
+521-18-7827,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,39.39,5,9.8475,206.7975,1/22/2019,0.865277778,Tarjeta,196.95,4.761904762,9.8475,8.7
+220-28-1851,Alex,Yangon,Normal,Masculino,Articulos para el hogar,34.73,2,3.473,72.933,3/1/2019,0.759722222,Digital,69.46,4.761904762,3.473,9.7
+600-38-9738,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,71.92,5,17.98,377.58,1/17/2019,0.628472222,Tarjeta,359.6,4.761904762,17.98,4.3
+734-91-1155,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,45.71,3,6.8565,143.9865,3/26/2019,0.440277778,Tarjeta,137.13,4.761904762,6.8565,7.7
+451-28-5717,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,83.17,6,24.951,523.971,3/20/2019,0.474305556,Efectivo,499.02,4.761904762,24.951,7.3
+609-81-8548,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,37.44,6,11.232,235.872,2/6/2019,0.579861111,Tarjeta,224.64,4.761904762,11.232,5.9
+133-14-7229,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,62.87,2,6.287,132.027,1/1/2019,0.488194444,Efectivo,125.74,4.761904762,6.287,5
+534-01-4457,Alex,Yangon,Normal,Masculino,Comestibles,81.71,6,24.513,514.773,1/27/2019,0.608333333,Tarjeta,490.26,4.761904762,24.513,8
+719-89-8991,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,91.41,5,22.8525,479.9025,2/25/2019,0.66875,Digital,457.05,4.761904762,22.8525,7.1
+286-62-6248,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,39.21,4,7.842,164.682,1/16/2019,0.835416667,Tarjeta,156.84,4.761904762,7.842,9
+339-38-9982,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,59.86,2,5.986,125.706,1/13/2019,0.621527778,Digital,119.72,4.761904762,5.986,6.7
+827-44-5872,Cairo,Mandalay,Afiliado,Femenino,Comestibles,54.36,10,27.18,570.78,2/7/2019,0.477777778,Tarjeta,543.6,4.761904762,27.18,6.1
+827-77-7633,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,98.09,9,44.1405,926.9505,2/17/2019,0.820138889,Efectivo,882.81,4.761904762,44.1405,9.3
+287-83-1405,Alex,Yangon,Normal,Masculino,Salud y belleza,25.43,6,7.629,160.209,2/12/2019,0.792361111,Digital,152.58,4.761904762,7.629,7
+435-13-4908,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,86.68,8,34.672,728.112,1/24/2019,0.752777778,Tarjeta,693.44,4.761904762,34.672,7.2
+857-67-9057,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,22.95,10,11.475,240.975,2/6/2019,0.805555556,Digital,229.5,4.761904762,11.475,8.2
+236-27-1144,Giza,Naypyitaw,Normal,Femenino,Comestibles,16.31,9,7.3395,154.1295,3/26/2019,0.438194444,Digital,146.79,4.761904762,7.3395,8.4
+892-05-6689,Alex,Yangon,Normal,Femenino,Articulos para el hogar,28.32,5,7.08,148.68,3/11/2019,0.561111111,Digital,141.6,4.761904762,7.08,6.2
+583-41-4548,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,16.67,7,5.8345,122.5245,2/7/2019,0.483333333,Digital,116.69,4.761904762,5.8345,7.4
+339-12-4827,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,73.96,1,3.698,77.658,1/5/2019,0.480555556,Tarjeta,73.96,4.761904762,3.698,5
+643-38-7867,Alex,Yangon,Normal,Masculino,Articulos para el hogar,97.94,1,4.897,102.837,3/7/2019,0.488888889,Digital,97.94,4.761904762,4.897,6.9
+308-81-0538,Alex,Yangon,Normal,Femenino,Accesorios de moda,73.05,4,14.61,306.81,2/25/2019,0.719444444,Tarjeta,292.2,4.761904762,14.61,4.9
+358-88-9262,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,87.48,6,26.244,551.124,2/1/2019,0.779861111,Digital,524.88,4.761904762,26.244,5.1
+460-35-4390,Alex,Yangon,Normal,Masculino,Articulos para el hogar,30.68,3,4.602,96.642,1/22/2019,0.458333333,Digital,92.04,4.761904762,4.602,9.1
+343-87-0864,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,75.88,1,3.794,79.674,1/3/2019,0.4375,Tarjeta,75.88,4.761904762,3.794,7.1
+173-50-1108,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,20.18,4,4.036,84.756,2/13/2019,0.509722222,Tarjeta,80.72,4.761904762,4.036,5
+243-47-2663,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,18.77,6,5.631,118.251,1/28/2019,0.696527778,Tarjeta,112.62,4.761904762,5.631,5.5
+841-18-8232,Cairo,Mandalay,Normal,Femenino,Comestibles,71.2,1,3.56,74.76,1/5/2019,0.861111111,Tarjeta,71.2,4.761904762,3.56,9.2
+701-23-5550,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,38.81,4,7.762,163.002,3/19/2019,0.569444444,Digital,155.24,4.761904762,7.762,4.9
+647-50-1224,Alex,Yangon,Normal,Femenino,Accesorios de moda,29.42,10,14.71,308.91,1/12/2019,0.682638889,Digital,294.2,4.761904762,14.71,8.9
+541-48-8554,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,60.95,9,27.4275,575.9775,1/7/2019,0.505555556,Tarjeta,548.55,4.761904762,27.4275,6
+539-21-7227,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,51.54,5,12.885,270.585,1/26/2019,0.739583333,Efectivo,257.7,4.761904762,12.885,4.2
+213-32-1216,Alex,Yangon,Normal,Femenino,Accesorios electronicos,66.06,6,19.818,416.178,1/23/2019,0.436111111,Efectivo,396.36,4.761904762,19.818,7.3
+747-58-7183,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,57.27,3,8.5905,180.4005,2/9/2019,0.854861111,Digital,171.81,4.761904762,8.5905,6.5
+582-52-8065,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,54.31,9,24.4395,513.2295,2/22/2019,0.450694444,Efectivo,488.79,4.761904762,24.4395,8.9
+210-57-1719,Cairo,Mandalay,Normal,Femenino,Salud y belleza,58.24,9,26.208,550.368,2/5/2019,0.523611111,Efectivo,524.16,4.761904762,26.208,9.7
+399-69-4630,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,22.21,6,6.663,139.923,3/7/2019,0.432638889,Tarjeta,133.26,4.761904762,6.663,8.6
+134-75-2619,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,19.32,7,6.762,142.002,3/25/2019,0.785416667,Efectivo,135.24,4.761904762,6.762,6.9
+356-44-8813,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,37.48,3,5.622,118.062,1/20/2019,0.572916667,Tarjeta,112.44,4.761904762,5.622,7.7
+198-66-9832,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,72.04,2,7.204,151.284,2/4/2019,0.818055556,Efectivo,144.08,4.761904762,7.204,9.5
+283-26-5248,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,98.52,10,49.26,1034.46,1/30/2019,0.849305556,Digital,985.2,4.761904762,49.26,4.5
+712-39-0363,Alex,Yangon,Afiliado,Masculino,Comestibles,41.66,6,12.498,262.458,1/2/2019,0.641666667,Digital,249.96,4.761904762,12.498,5.6
+218-59-9410,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,72.42,3,10.863,228.123,3/29/2019,0.704166667,Digital,217.26,4.761904762,10.863,8.2
+174-75-0888,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,21.58,9,9.711,203.931,3/14/2019,0.522222222,Efectivo,194.22,4.761904762,9.711,7.3
+866-99-7614,Giza,Naypyitaw,Normal,Masculino,Comestibles,89.2,10,44.6,936.6,2/11/2019,0.654166667,Tarjeta,892,4.761904762,44.6,4.4
+134-54-4720,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,42.42,8,16.968,356.328,1/30/2019,0.581944444,Digital,339.36,4.761904762,16.968,5.7
+760-90-2357,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,74.51,6,22.353,469.413,3/20/2019,0.630555556,Digital,447.06,4.761904762,22.353,5
+514-37-2845,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,99.25,2,9.925,208.425,3/20/2019,0.543055556,Efectivo,198.5,4.761904762,9.925,9
+698-98-5964,Alex,Yangon,Normal,Femenino,Comestibles,81.21,10,40.605,852.705,1/17/2019,0.542361111,Tarjeta,812.1,4.761904762,40.605,6.3
+718-57-9773,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,49.33,10,24.665,517.965,2/3/2019,0.694444444,Tarjeta,493.3,4.761904762,24.665,9.4
+651-88-7328,Alex,Yangon,Normal,Femenino,Accesorios de moda,65.74,9,29.583,621.243,1/1/2019,0.579861111,Efectivo,591.66,4.761904762,29.583,7.7
+241-11-2261,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,79.86,7,27.951,586.971,1/10/2019,0.439583333,Tarjeta,559.02,4.761904762,27.951,5.5
+408-26-9866,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,73.98,7,25.893,543.753,3/2/2019,0.695833333,Digital,517.86,4.761904762,25.893,4.1
+834-83-1826,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,82.04,5,20.51,430.71,2/25/2019,0.719444444,Tarjeta,410.2,4.761904762,20.51,7.6
+343-61-3544,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,26.67,10,13.335,280.035,1/29/2019,0.491666667,Efectivo,266.7,4.761904762,13.335,8.6
+239-48-4278,Alex,Yangon,Afiliado,Masculino,Comestibles,10.13,7,3.5455,74.4555,3/10/2019,0.815972222,Digital,70.91,4.761904762,3.5455,8.3
+355-34-6244,Cairo,Mandalay,Normal,Masculino,Comestibles,72.39,2,7.239,152.019,1/13/2019,0.829861111,Tarjeta,144.78,4.761904762,7.239,8.1
+550-84-8664,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,85.91,5,21.4775,451.0275,3/22/2019,0.60625,Tarjeta,429.55,4.761904762,21.4775,8.6
+339-96-8318,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,81.31,7,28.4585,597.6285,3/1/2019,0.825694444,Digital,569.17,4.761904762,28.4585,6.3
+458-61-0011,Cairo,Mandalay,Normal,Masculino,Comestibles,60.3,4,12.06,253.26,2/20/2019,0.779861111,Efectivo,241.2,4.761904762,12.06,5.8
+592-34-6155,Giza,Naypyitaw,Normal,Masculino,Comestibles,31.77,4,6.354,133.434,1/14/2019,0.613194444,Digital,127.08,4.761904762,6.354,6.2
+797-88-0493,Alex,Yangon,Normal,Femenino,Salud y belleza,64.27,4,12.854,269.934,3/26/2019,0.579166667,Efectivo,257.08,4.761904762,12.854,7.7
+207-73-1363,Cairo,Mandalay,Normal,Masculino,Salud y belleza,69.51,2,6.951,145.971,3/1/2019,0.510416667,Digital,139.02,4.761904762,6.951,8.1
+390-31-6381,Giza,Naypyitaw,Normal,Masculino,Comestibles,27.22,3,4.083,85.743,1/7/2019,0.525694444,Efectivo,81.66,4.761904762,4.083,7.3
+443-82-0585,Alex,Yangon,Afiliado,Femenino,Salud y belleza,77.68,4,15.536,326.256,2/1/2019,0.829166667,Efectivo,310.72,4.761904762,15.536,8.4
+339-18-7061,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,92.98,2,9.298,195.258,2/13/2019,0.629166667,Tarjeta,185.96,4.761904762,9.298,8
+359-90-3665,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,18.08,4,3.616,75.936,1/14/2019,0.752083333,Tarjeta,72.32,4.761904762,3.616,9.5
+375-72-3056,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,63.06,3,9.459,198.639,1/19/2019,0.665277778,Digital,189.18,4.761904762,9.459,7
+127-47-6963,Alex,Yangon,Normal,Masculino,Salud y belleza,51.71,4,10.342,217.182,3/9/2019,0.578472222,Tarjeta,206.84,4.761904762,10.342,9.8
+278-86-2735,Alex,Yangon,Normal,Femenino,Comestibles,52.34,3,7.851,164.871,3/27/2019,0.585416667,Efectivo,157.02,4.761904762,7.851,9.2
+695-28-6250,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,43.06,5,10.765,226.065,2/4/2019,0.693055556,Digital,215.3,4.761904762,10.765,7.7
+379-17-6588,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,59.61,10,29.805,625.905,3/14/2019,0.463194444,Efectivo,596.1,4.761904762,29.805,5.3
+227-50-3718,Alex,Yangon,Normal,Masculino,Salud y belleza,14.62,5,3.655,76.755,3/4/2019,0.515972222,Efectivo,73.1,4.761904762,3.655,4.4
+302-15-2162,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,46.53,6,13.959,293.139,3/3/2019,0.454166667,Tarjeta,279.18,4.761904762,13.959,4.3
+788-07-8452,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,24.24,7,8.484,178.164,1/27/2019,0.734722222,Digital,169.68,4.761904762,8.484,9.4
+560-49-6611,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,45.58,1,2.279,47.859,2/7/2019,0.592361111,Efectivo,45.58,4.761904762,2.279,9.8
+880-35-0356,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,75.2,3,11.28,236.88,2/5/2019,0.49375,Digital,225.6,4.761904762,11.28,4.8
+585-11-6748,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,96.8,3,14.52,304.92,3/15/2019,0.545138889,Efectivo,290.4,4.761904762,14.52,5.3
+470-31-3286,Cairo,Mandalay,Normal,Masculino,Salud y belleza,14.82,3,2.223,46.683,3/1/2019,0.479166667,Tarjeta,44.46,4.761904762,2.223,8.7
+152-68-2907,Alex,Yangon,Normal,Masculino,Comestibles,52.2,3,7.83,164.43,2/15/2019,0.5625,Tarjeta,156.6,4.761904762,7.83,9.5
+123-35-4896,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,46.66,9,20.997,440.937,2/17/2019,0.799305556,Digital,419.94,4.761904762,20.997,5.3
+258-69-7810,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,36.85,5,9.2125,193.4625,1/26/2019,0.786805556,Efectivo,184.25,4.761904762,9.2125,9.2
+334-64-2006,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,70.32,2,7.032,147.672,3/24/2019,0.598611111,Digital,140.64,4.761904762,7.032,9.6
+219-61-4139,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,83.08,1,4.154,87.234,1/23/2019,0.719444444,Digital,83.08,4.761904762,4.154,6.4
+881-41-7302,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,64.99,1,3.2495,68.2395,1/26/2019,0.420833333,Tarjeta,64.99,4.761904762,3.2495,4.5
+373-09-4567,Giza,Naypyitaw,Normal,Masculino,Comestibles,77.56,10,38.78,814.38,3/14/2019,0.857638889,Digital,775.6,4.761904762,38.78,6.9
+642-30-6693,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,54.51,6,16.353,343.413,3/17/2019,0.579166667,Digital,327.06,4.761904762,16.353,7.8
+484-22-8230,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,51.89,7,18.1615,381.3915,1/8/2019,0.838888889,Efectivo,363.23,4.761904762,18.1615,4.5
+830-58-2383,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,31.75,4,6.35,133.35,2/8/2019,0.643055556,Efectivo,127,4.761904762,6.35,8.6
+559-98-9873,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,53.65,7,18.7775,394.3275,2/10/2019,0.538888889,Digital,375.55,4.761904762,18.7775,5.2
+544-32-5024,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,49.79,4,9.958,209.118,3/28/2019,0.802777778,Tarjeta,199.16,4.761904762,9.958,6.4
+318-12-0304,Alex,Yangon,Normal,Masculino,Accesorios de moda,30.61,1,1.5305,32.1405,1/23/2019,0.513888889,Digital,30.61,4.761904762,1.5305,5.2
+349-97-8902,Cairo,Mandalay,Afiliado,Masculino,Comestibles,57.89,2,5.789,121.569,1/17/2019,0.442361111,Digital,115.78,4.761904762,5.789,8.9
+421-95-9805,Alex,Yangon,Normal,Femenino,Accesorios electronicos,28.96,1,1.448,30.408,2/7/2019,0.429166667,Tarjeta,28.96,4.761904762,1.448,6.2
+277-35-5865,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,98.97,9,44.5365,935.2665,3/9/2019,0.474305556,Efectivo,890.73,4.761904762,44.5365,6.7
+789-23-8625,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,93.22,3,13.983,293.643,1/24/2019,0.489583333,Efectivo,279.66,4.761904762,13.983,7.2
+284-54-4231,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,80.93,1,4.0465,84.9765,1/19/2019,0.672222222,Tarjeta,80.93,4.761904762,4.0465,9
+443-59-0061,Alex,Yangon,Afiliado,Masculino,Comestibles,67.45,10,33.725,708.225,2/3/2019,0.475694444,Digital,674.5,4.761904762,33.725,4.2
+509-29-3912,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,38.72,9,17.424,365.904,3/20/2019,0.516666667,Digital,348.48,4.761904762,17.424,4.2
+327-40-9673,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,72.6,6,21.78,457.38,1/13/2019,0.827083333,Efectivo,435.6,4.761904762,21.78,6.9
+840-19-2096,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,87.91,5,21.9775,461.5275,3/14/2019,0.756944444,Digital,439.55,4.761904762,21.9775,4.4
+828-46-6863,Alex,Yangon,Afiliado,Masculino,Comestibles,98.53,6,29.559,620.739,1/23/2019,0.473611111,Tarjeta,591.18,4.761904762,29.559,4
+641-96-3695,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,43.46,6,13.038,273.798,2/7/2019,0.746527778,Digital,260.76,4.761904762,13.038,8.5
+420-97-3340,Alex,Yangon,Normal,Femenino,Comestibles,71.68,3,10.752,225.792,3/28/2019,0.645833333,Tarjeta,215.04,4.761904762,10.752,9.2
+436-54-4512,Alex,Yangon,Afiliado,Femenino,Comestibles,91.61,1,4.5805,96.1905,3/20/2019,0.822222222,Efectivo,91.61,4.761904762,4.5805,9.8
+670-79-6321,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,94.59,7,33.1065,695.2365,1/17/2019,0.64375,Tarjeta,662.13,4.761904762,33.1065,4.9
+852-62-7105,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,83.25,10,41.625,874.125,1/12/2019,0.475694444,Tarjeta,832.5,4.761904762,41.625,4.4
+598-06-7312,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,91.35,1,4.5675,95.9175,2/16/2019,0.654166667,Efectivo,91.35,4.761904762,4.5675,6.8
+135-13-8269,Cairo,Mandalay,Afiliado,Femenino,Comestibles,78.88,2,7.888,165.648,1/26/2019,0.669444444,Efectivo,157.76,4.761904762,7.888,9.1
+816-57-2053,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,60.87,2,6.087,127.827,3/9/2019,0.525694444,Digital,121.74,4.761904762,6.087,8.7
+628-90-8624,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,82.58,10,41.29,867.09,3/14/2019,0.611805556,Efectivo,825.8,4.761904762,41.29,5
+856-66-2701,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,53.3,3,7.995,167.895,1/25/2019,0.596527778,Digital,159.9,4.761904762,7.995,7.5
+308-39-1707,Alex,Yangon,Normal,Femenino,Accesorios de moda,12.09,1,0.6045,12.6945,1/26/2019,0.763194444,Tarjeta,12.09,4.761904762,0.6045,8.2
+149-61-1929,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,64.19,10,32.095,673.995,1/19/2019,0.588888889,Tarjeta,641.9,4.761904762,32.095,6.7
+655-07-2265,Alex,Yangon,Normal,Masculino,Accesorios electronicos,78.31,3,11.7465,246.6765,3/5/2019,0.693055556,Digital,234.93,4.761904762,11.7465,5.4
+589-02-8023,Alex,Yangon,Afiliado,Masculino,Comestibles,83.77,2,8.377,175.917,1/15/2019,0.454166667,Tarjeta,167.54,4.761904762,8.377,7
+420-04-7590,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,99.7,3,14.955,314.055,3/18/2019,0.478472222,Digital,299.1,4.761904762,14.955,4.7
+182-88-2763,Cairo,Mandalay,Afiliado,Masculino,Comestibles,79.91,3,11.9865,251.7165,3/20/2019,0.811111111,Tarjeta,239.73,4.761904762,11.9865,5
+188-55-0967,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,66.47,10,33.235,697.935,1/15/2019,0.625694444,Tarjeta,664.7,4.761904762,33.235,5
+610-46-4100,Alex,Yangon,Normal,Masculino,Salud y belleza,28.95,7,10.1325,212.7825,3/3/2019,0.854861111,Tarjeta,202.65,4.761904762,10.1325,6
+318-81-2368,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,46.2,1,2.31,48.51,3/19/2019,0.511111111,Efectivo,46.2,4.761904762,2.31,6.3
+364-33-8584,Cairo,Mandalay,Afiliado,Femenino,Comestibles,17.63,5,4.4075,92.5575,3/8/2019,0.64375,Efectivo,88.15,4.761904762,4.4075,8.5
+665-63-9737,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,52.42,3,7.863,165.123,2/27/2019,0.733333333,Digital,157.26,4.761904762,7.863,7.5
+695-09-5146,Cairo,Mandalay,Afiliado,Femenino,Comestibles,98.79,3,14.8185,311.1885,2/23/2019,0.833333333,Digital,296.37,4.761904762,14.8185,6.4
+155-45-3814,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,88.55,8,35.42,743.82,3/19/2019,0.645138889,Digital,708.4,4.761904762,35.42,4.7
+794-32-2436,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,55.67,2,5.567,116.907,3/27/2019,0.630555556,Digital,111.34,4.761904762,5.567,6
+131-15-8856,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,72.52,8,29.008,609.168,3/30/2019,0.809722222,Tarjeta,580.16,4.761904762,29.008,4
+273-84-2164,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,12.05,5,3.0125,63.2625,2/16/2019,0.661805556,Digital,60.25,4.761904762,3.0125,5.5
+706-36-6154,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,19.36,9,8.712,182.952,1/18/2019,0.779861111,Digital,174.24,4.761904762,8.712,8.7
+778-89-7974,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,70.21,6,21.063,442.323,3/30/2019,0.623611111,Efectivo,421.26,4.761904762,21.063,7.4
+574-31-8277,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,33.63,1,1.6815,35.3115,3/20/2019,0.829861111,Efectivo,33.63,4.761904762,1.6815,5.6
+859-71-0933,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,15.49,2,1.549,32.529,1/16/2019,0.631944444,Efectivo,30.98,4.761904762,1.549,6.3
+740-11-5257,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,24.74,10,12.37,259.77,2/24/2019,0.697222222,Efectivo,247.4,4.761904762,12.37,7.1
+369-82-2676,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,75.66,5,18.915,397.215,1/15/2019,0.765277778,Digital,378.3,4.761904762,18.915,7.8
+563-47-4072,Cairo,Mandalay,Normal,Femenino,Salud y belleza,55.81,6,16.743,351.603,1/22/2019,0.494444444,Efectivo,334.86,4.761904762,16.743,9.9
+742-04-5161,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,72.78,10,36.39,764.19,2/3/2019,0.725,Efectivo,727.8,4.761904762,36.39,7.3
+149-15-7606,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,37.32,9,16.794,352.674,3/6/2019,0.646527778,Digital,335.88,4.761904762,16.794,5.1
+133-77-3154,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,60.18,4,12.036,252.756,2/16/2019,0.752777778,Tarjeta,240.72,4.761904762,12.036,9.4
+169-52-4504,Alex,Yangon,Normal,Femenino,Accesorios electronicos,15.69,3,2.3535,49.4235,3/14/2019,0.592361111,Tarjeta,47.07,4.761904762,2.3535,5.8
+250-81-7186,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,99.69,1,4.9845,104.6745,2/27/2019,0.432638889,Tarjeta,99.69,4.761904762,4.9845,8
+562-12-5430,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,88.15,3,13.2225,277.6725,1/18/2019,0.424305556,Digital,264.45,4.761904762,13.2225,7.9
+816-72-8853,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,27.93,5,6.9825,146.6325,1/29/2019,0.658333333,Efectivo,139.65,4.761904762,6.9825,5.9
+491-38-3499,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,55.45,1,2.7725,58.2225,2/26/2019,0.740277778,Tarjeta,55.45,4.761904762,2.7725,4.9
+322-02-2271,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,42.97,3,6.4455,135.3555,2/3/2019,0.490277778,Efectivo,128.91,4.761904762,6.4455,9.3
+842-29-4695,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,17.14,7,5.999,125.979,1/16/2019,0.504861111,Tarjeta,119.98,4.761904762,5.999,7.9
+725-67-2480,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,58.75,6,17.625,370.125,3/24/2019,0.759722222,Tarjeta,352.5,4.761904762,17.625,5.9
+641-51-2661,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,87.1,10,43.55,914.55,2/12/2019,0.614583333,Tarjeta,871,4.761904762,43.55,9.9
+714-02-3114,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,98.8,2,9.88,207.48,2/21/2019,0.485416667,Efectivo,197.6,4.761904762,9.88,7.7
+518-17-2983,Alex,Yangon,Normal,Femenino,Accesorios de moda,48.63,4,9.726,204.246,2/4/2019,0.655555556,Digital,194.52,4.761904762,9.726,7.6
+779-42-2410,Cairo,Mandalay,Afiliado,Masculino,Comestibles,57.74,3,8.661,181.881,2/20/2019,0.545833333,Digital,173.22,4.761904762,8.661,7.7
+190-14-3147,Cairo,Mandalay,Normal,Femenino,Salud y belleza,17.97,4,3.594,75.474,2/23/2019,0.863194444,Digital,71.88,4.761904762,3.594,6.4
+408-66-6712,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,47.71,6,14.313,300.573,2/16/2019,0.596527778,Digital,286.26,4.761904762,14.313,4.4
+679-22-6530,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,40.62,2,4.062,85.302,1/17/2019,0.417361111,Tarjeta,81.24,4.761904762,4.062,4.1
+588-47-8641,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,56.04,10,28.02,588.42,1/14/2019,0.8125,Digital,560.4,4.761904762,28.02,4.4
+642-61-4706,Cairo,Mandalay,Afiliado,Masculino,Comestibles,93.4,2,9.34,196.14,3/30/2019,0.690277778,Efectivo,186.8,4.761904762,9.34,5.5
+576-31-4774,Cairo,Mandalay,Normal,Femenino,Salud y belleza,73.41,3,11.0115,231.2415,3/2/2019,0.548611111,Digital,220.23,4.761904762,11.0115,4
+556-41-6224,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,33.64,8,13.456,282.576,2/15/2019,0.715277778,Tarjeta,269.12,4.761904762,13.456,9.3
+811-03-8790,Alex,Yangon,Normal,Femenino,Accesorios electronicos,45.48,10,22.74,477.54,3/1/2019,0.431944444,Tarjeta,454.8,4.761904762,22.74,4.8
+242-11-3142,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,83.77,2,8.377,175.917,2/24/2019,0.83125,Efectivo,167.54,4.761904762,8.377,4.6
+752-23-3760,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,64.08,7,22.428,470.988,2/19/2019,0.811805556,Tarjeta,448.56,4.761904762,22.428,7.3
+274-05-5470,Alex,Yangon,Afiliado,Femenino,Comestibles,73.47,4,14.694,308.574,2/23/2019,0.770833333,Efectivo,293.88,4.761904762,14.694,6
+648-94-3045,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,58.95,10,29.475,618.975,2/7/2019,0.602083333,Digital,589.5,4.761904762,29.475,8.1
+130-67-4723,Alex,Yangon,Afiliado,Masculino,Comestibles,48.5,6,14.55,305.55,1/11/2019,0.58125,Digital,291,4.761904762,14.55,9.4
+528-87-5606,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,39.48,1,1.974,41.454,2/12/2019,0.821527778,Efectivo,39.48,4.761904762,1.974,6.5
+320-85-2052,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,34.81,1,1.7405,36.5505,1/14/2019,0.424305556,Tarjeta,34.81,4.761904762,1.7405,7
+370-96-0655,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,49.32,6,14.796,310.716,1/9/2019,0.573611111,Digital,295.92,4.761904762,14.796,7.1
+105-10-6182,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,21.48,2,2.148,45.108,2/27/2019,0.515277778,Digital,42.96,4.761904762,2.148,6.6
+510-79-0415,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,23.08,6,6.924,145.404,1/24/2019,0.805555556,Digital,138.48,4.761904762,6.924,4.9
+241-96-5076,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,49.1,2,4.91,103.11,1/8/2019,0.540277778,Tarjeta,98.2,4.761904762,4.91,6.4
+767-97-4650,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,64.83,2,6.483,136.143,1/8/2019,0.499305556,Tarjeta,129.66,4.761904762,6.483,8
+648-83-1321,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,63.56,10,31.78,667.38,1/16/2019,0.749305556,Efectivo,635.6,4.761904762,31.78,4.3
+173-57-2300,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,72.88,2,7.288,153.048,3/13/2019,0.535416667,Efectivo,145.76,4.761904762,7.288,6.1
+305-03-2383,Alex,Yangon,Normal,Femenino,Comestibles,67.1,3,10.065,211.365,2/15/2019,0.441666667,Efectivo,201.3,4.761904762,10.065,7.5
+394-55-6384,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,70.19,9,31.5855,663.2955,1/25/2019,0.568055556,Efectivo,631.71,4.761904762,31.5855,6.7
+266-20-6657,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,55.04,7,19.264,404.544,3/12/2019,0.81875,Digital,385.28,4.761904762,19.264,5.2
+689-05-1884,Alex,Yangon,Afiliado,Masculino,Salud y belleza,48.63,10,24.315,510.615,3/4/2019,0.530555556,Efectivo,486.3,4.761904762,24.315,8.8
+196-01-2849,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,73.38,7,25.683,539.343,2/10/2019,0.580555556,Efectivo,513.66,4.761904762,25.683,9.5
+372-62-5264,Giza,Naypyitaw,Normal,Femenino,Comestibles,52.6,9,23.67,497.07,1/16/2019,0.6125,Efectivo,473.4,4.761904762,23.67,7.6
+800-09-8606,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,87.37,5,21.8425,458.6925,1/29/2019,0.822916667,Efectivo,436.85,4.761904762,21.8425,6.6
+182-52-7000,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,27.04,4,5.408,113.568,1/1/2019,0.851388889,Digital,108.16,4.761904762,5.408,6.9
+826-58-8051,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,62.19,4,12.438,261.198,1/6/2019,0.823611111,Digital,248.76,4.761904762,12.438,4.3
+868-06-0466,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,69.58,9,31.311,657.531,2/19/2019,0.818055556,Tarjeta,626.22,4.761904762,31.311,7.8
+751-41-9720,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,97.5,10,48.75,1023.75,1/12/2019,0.679166667,Digital,975,4.761904762,48.75,8
+626-43-7888,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,60.41,8,24.164,507.444,2/7/2019,0.515972222,Digital,483.28,4.761904762,24.164,9.6
+176-64-7711,Cairo,Mandalay,Normal,Masculino,Comestibles,32.32,3,4.848,101.808,3/27/2019,0.799305556,Tarjeta,96.96,4.761904762,4.848,4.3
+191-29-0321,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,19.77,10,9.885,207.585,2/27/2019,0.789583333,Tarjeta,197.7,4.761904762,9.885,5
+729-06-2010,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,80.47,9,36.2115,760.4415,1/6/2019,0.470833333,Efectivo,724.23,4.761904762,36.2115,9.2
+640-48-5028,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,88.39,9,39.7755,835.2855,3/2/2019,0.527777778,Efectivo,795.51,4.761904762,39.7755,6.3
+186-79-9562,Cairo,Mandalay,Normal,Masculino,Salud y belleza,71.77,7,25.1195,527.5095,3/29/2019,0.5875,Efectivo,502.39,4.761904762,25.1195,8.9
+834-45-5519,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,43,4,8.6,180.6,1/31/2019,0.866666667,Digital,172,4.761904762,8.6,7.6
+162-65-8559,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,68.98,1,3.449,72.429,1/21/2019,0.842361111,Efectivo,68.98,4.761904762,3.449,4.8
+760-27-5490,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,15.62,8,6.248,131.208,1/20/2019,0.859027778,Digital,124.96,4.761904762,6.248,9.1
+445-30-9252,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,25.7,3,3.855,80.955,1/17/2019,0.749305556,Digital,77.1,4.761904762,3.855,6.1
+786-94-2700,Alex,Yangon,Afiliado,Masculino,Comestibles,80.62,6,24.186,507.906,2/28/2019,0.845833333,Efectivo,483.72,4.761904762,24.186,9.1
+728-88-7867,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,75.53,4,15.106,317.226,3/19/2019,0.661111111,Digital,302.12,4.761904762,15.106,8.3
+183-21-3799,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,77.63,9,34.9335,733.6035,2/19/2019,0.634722222,Digital,698.67,4.761904762,34.9335,7.2
+268-20-3585,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,13.85,9,6.2325,130.8825,2/4/2019,0.534722222,Digital,124.65,4.761904762,6.2325,6
+735-32-9839,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,98.7,8,39.48,829.08,1/31/2019,0.441666667,Digital,789.6,4.761904762,39.48,8.5
+258-92-7466,Alex,Yangon,Normal,Femenino,Salud y belleza,35.68,5,8.92,187.32,2/6/2019,0.772916667,Tarjeta,178.4,4.761904762,8.92,6.6
+857-16-3520,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,71.46,7,25.011,525.231,3/28/2019,0.670833333,Digital,500.22,4.761904762,25.011,4.5
+482-17-1179,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,11.94,3,1.791,37.611,1/19/2019,0.532638889,Tarjeta,35.82,4.761904762,1.791,8.1
+788-21-5741,Alex,Yangon,Normal,Masculino,Accesorios de moda,45.38,3,6.807,142.947,2/17/2019,0.565277778,Tarjeta,136.14,4.761904762,6.807,7.2
+821-14-9046,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,17.48,6,5.244,110.124,1/18/2019,0.627777778,Tarjeta,104.88,4.761904762,5.244,6.1
+418-05-0656,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,25.56,7,8.946,187.866,2/2/2019,0.8625,Efectivo,178.92,4.761904762,8.946,7.1
+678-79-0726,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,90.63,9,40.7835,856.4535,1/18/2019,0.644444444,Efectivo,815.67,4.761904762,40.7835,5.1
+776-68-1096,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,44.12,3,6.618,138.978,3/18/2019,0.572916667,Tarjeta,132.36,4.761904762,6.618,7.9
+592-46-1692,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,36.77,7,12.8695,270.2595,1/11/2019,0.840277778,Efectivo,257.39,4.761904762,12.8695,7.4
+434-35-9162,Cairo,Mandalay,Afiliado,Masculino,Comestibles,23.34,4,4.668,98.028,2/4/2019,0.786805556,Digital,93.36,4.761904762,4.668,7.4
+149-14-0304,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,28.5,8,11.4,239.4,2/6/2019,0.6,Efectivo,228,4.761904762,11.4,6.6
+442-44-6497,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,55.57,3,8.3355,175.0455,1/8/2019,0.4875,Tarjeta,166.71,4.761904762,8.3355,5.9
+174-64-0215,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,69.74,10,34.87,732.27,3/5/2019,0.742361111,Tarjeta,697.4,4.761904762,34.87,8.9
+210-74-9613,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,97.26,4,19.452,408.492,3/16/2019,0.647916667,Digital,389.04,4.761904762,19.452,6.8
+299-29-0180,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,52.18,7,18.263,383.523,3/9/2019,0.454166667,Efectivo,365.26,4.761904762,18.263,9.3
+247-11-2470,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,22.32,4,4.464,93.744,3/1/2019,0.682638889,Tarjeta,89.28,4.761904762,4.464,4.4
+635-28-5728,Alex,Yangon,Normal,Masculino,Salud y belleza,56,3,8.4,176.4,2/28/2019,0.814583333,Digital,168,4.761904762,8.4,4.8
+756-49-0168,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,19.7,1,0.985,20.685,2/8/2019,0.485416667,Digital,19.7,4.761904762,0.985,9.5
+438-23-1242,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,75.88,7,26.558,557.718,1/24/2019,0.443055556,Digital,531.16,4.761904762,26.558,8.9
+238-45-6950,Cairo,Mandalay,Afiliado,Masculino,Comestibles,53.72,1,2.686,56.406,3/1/2019,0.835416667,Digital,53.72,4.761904762,2.686,6.4
+607-65-2441,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,81.95,10,40.975,860.475,3/10/2019,0.527083333,Tarjeta,819.5,4.761904762,40.975,6
+386-27-7606,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,81.2,7,28.42,596.82,3/23/2019,0.665972222,Tarjeta,568.4,4.761904762,28.42,8.1
+137-63-5492,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,58.76,10,29.38,616.98,1/29/2019,0.601388889,Digital,587.6,4.761904762,29.38,9
+197-77-7132,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,91.56,8,36.624,769.104,1/12/2019,0.765277778,Digital,732.48,4.761904762,36.624,6
+805-86-0265,Alex,Yangon,Normal,Masculino,Articulos para el hogar,93.96,9,42.282,887.922,3/20/2019,0.480555556,Efectivo,845.64,4.761904762,42.282,9.8
+733-29-1227,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,55.61,7,19.4635,408.7335,3/23/2019,0.528472222,Efectivo,389.27,4.761904762,19.4635,8.5
+451-73-2711,Giza,Naypyitaw,Normal,Masculino,Comestibles,84.83,1,4.2415,89.0715,1/14/2019,0.638888889,Digital,84.83,4.761904762,4.2415,8.8
+373-14-0504,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,71.63,2,7.163,150.423,2/12/2019,0.60625,Digital,143.26,4.761904762,7.163,8.8
+546-80-2899,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,37.69,2,3.769,79.149,2/20/2019,0.645138889,Digital,75.38,4.761904762,3.769,9.5
+345-68-9016,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,31.67,8,12.668,266.028,1/2/2019,0.679861111,Tarjeta,253.36,4.761904762,12.668,5.6
+390-17-5806,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,38.42,1,1.921,40.341,2/2/2019,0.689583333,Efectivo,38.42,4.761904762,1.921,8.6
+457-13-1708,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,65.23,10,32.615,684.915,1/8/2019,0.796527778,Tarjeta,652.3,4.761904762,32.615,5.2
+664-14-2882,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,10.53,5,2.6325,55.2825,1/30/2019,0.613194444,Tarjeta,52.65,4.761904762,2.6325,5.8
+487-79-6868,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,12.29,9,5.5305,116.1405,3/26/2019,0.811111111,Tarjeta,110.61,4.761904762,5.5305,8
+314-23-4520,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,81.23,7,28.4305,597.0405,1/15/2019,0.863888889,Efectivo,568.61,4.761904762,28.4305,9
+210-30-7976,Cairo,Mandalay,Afiliado,Femenino,Accesorios de moda,22.32,4,4.464,93.744,3/14/2019,0.469444444,Digital,89.28,4.761904762,4.464,4.1
+585-86-8361,Alex,Yangon,Normal,Femenino,Comestibles,27.28,5,6.82,143.22,2/3/2019,0.438194444,Tarjeta,136.4,4.761904762,6.82,8.6
+807-14-7833,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,17.42,10,8.71,182.91,2/22/2019,0.520833333,Digital,174.2,4.761904762,8.71,7
+775-72-1988,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,73.28,5,18.32,384.72,1/24/2019,0.628472222,Digital,366.4,4.761904762,18.32,8.4
+288-38-3758,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,84.87,3,12.7305,267.3405,1/25/2019,0.770833333,Digital,254.61,4.761904762,12.7305,7.4
+652-43-6591,Alex,Yangon,Normal,Femenino,Accesorios de moda,97.29,8,38.916,817.236,3/9/2019,0.554166667,Tarjeta,778.32,4.761904762,38.916,6.2
+785-96-0615,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,35.74,8,14.296,300.216,2/17/2019,0.644444444,Digital,285.92,4.761904762,14.296,4.9
+406-46-7107,Alex,Yangon,Normal,Femenino,Articulos para el hogar,96.52,6,28.956,608.076,1/11/2019,0.494444444,Efectivo,579.12,4.761904762,28.956,4.5
+250-17-5703,Alex,Yangon,Afiliado,Masculino,Comestibles,18.85,10,9.425,197.925,2/27/2019,0.766666667,Digital,188.5,4.761904762,9.425,5.6
+156-95-3964,Alex,Yangon,Normal,Femenino,Comestibles,55.39,4,11.078,232.638,3/25/2019,0.638194444,Digital,221.56,4.761904762,11.078,8
+842-40-8179,Cairo,Mandalay,Afiliado,Femenino,Comestibles,77.2,10,38.6,810.6,2/11/2019,0.443055556,Tarjeta,772,4.761904762,38.6,5.6
+525-09-8450,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,72.13,10,36.065,757.365,1/31/2019,0.633333333,Tarjeta,721.3,4.761904762,36.065,4.2
+410-67-1709,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,63.88,8,25.552,536.592,1/20/2019,0.741666667,Digital,511.04,4.761904762,25.552,9.9
+587-73-4862,Alex,Yangon,Afiliado,Femenino,Salud y belleza,10.69,5,2.6725,56.1225,3/26/2019,0.463194444,Digital,53.45,4.761904762,2.6725,7.6
+787-87-2010,Alex,Yangon,Afiliado,Masculino,Salud y belleza,55.5,4,11.1,233.1,1/20/2019,0.658333333,Tarjeta,222,4.761904762,11.1,6.6
+593-14-4239,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,95.46,8,38.184,801.864,3/5/2019,0.819444444,Digital,763.68,4.761904762,38.184,4.7
+801-88-0346,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,76.06,3,11.409,239.589,1/5/2019,0.854166667,Tarjeta,228.18,4.761904762,11.409,9.8
+388-76-2555,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,13.69,6,4.107,86.247,2/13/2019,0.582638889,Efectivo,82.14,4.761904762,4.107,6.3
+711-31-1234,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,95.64,4,19.128,401.688,3/16/2019,0.785416667,Efectivo,382.56,4.761904762,19.128,7.9
+886-54-6089,Alex,Yangon,Normal,Femenino,Articulos para el hogar,11.43,6,3.429,72.009,1/15/2019,0.725,Efectivo,68.58,4.761904762,3.429,7.7
+707-32-7409,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,95.54,4,19.108,401.268,2/26/2019,0.498611111,Digital,382.16,4.761904762,19.108,4.5
+759-98-4285,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,85.87,7,30.0545,631.1445,2/27/2019,0.792361111,Tarjeta,601.09,4.761904762,30.0545,8
+201-63-8275,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,67.99,7,23.7965,499.7265,2/17/2019,0.701388889,Digital,475.93,4.761904762,23.7965,5.7
+471-06-8611,Giza,Naypyitaw,Normal,Femenino,Comestibles,52.42,1,2.621,55.041,2/6/2019,0.431944444,Tarjeta,52.42,4.761904762,2.621,6.3
+200-16-5952,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,65.65,2,6.565,137.865,1/17/2019,0.698611111,Efectivo,131.3,4.761904762,6.565,6
+120-54-2248,Cairo,Mandalay,Normal,Femenino,Comestibles,28.86,5,7.215,151.515,1/22/2019,0.755555556,Tarjeta,144.3,4.761904762,7.215,8
+102-77-2261,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,65.31,7,22.8585,480.0285,3/5/2019,0.751388889,Tarjeta,457.17,4.761904762,22.8585,4.2
+875-31-8302,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,93.38,1,4.669,98.049,1/3/2019,0.546527778,Efectivo,93.38,4.761904762,4.669,9.6
+102-06-2002,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,25.25,5,6.3125,132.5625,3/20/2019,0.744444444,Efectivo,126.25,4.761904762,6.3125,6.1
+457-94-0464,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,87.87,9,39.5415,830.3715,1/31/2019,0.855555556,Digital,790.83,4.761904762,39.5415,5.6
+629-42-4133,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,21.8,8,8.72,183.12,2/19/2019,0.808333333,Efectivo,174.4,4.761904762,8.72,8.3
+534-53-3526,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,94.76,4,18.952,397.992,2/11/2019,0.670833333,Digital,379.04,4.761904762,18.952,7.8
+307-04-2070,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,30.62,1,1.531,32.151,2/5/2019,0.593055556,Tarjeta,30.62,4.761904762,1.531,4.1
+468-99-7231,Giza,Naypyitaw,Normal,Femenino,Articulos para el hogar,44.01,8,17.604,369.684,3/3/2019,0.733333333,Efectivo,352.08,4.761904762,17.604,8.8
+516-77-6464,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,10.16,5,2.54,53.34,2/24/2019,0.547222222,Digital,50.8,4.761904762,2.54,4.1
+404-91-5964,Alex,Yangon,Normal,Masculino,Accesorios electronicos,74.58,7,26.103,548.163,2/4/2019,0.672916667,Tarjeta,522.06,4.761904762,26.103,9
+886-77-9084,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,71.89,8,28.756,603.876,2/19/2019,0.48125,Digital,575.12,4.761904762,28.756,5.5
+790-38-4466,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,10.99,5,2.7475,57.6975,1/23/2019,0.429166667,Tarjeta,54.95,4.761904762,2.7475,9.3
+704-10-4056,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,60.47,3,9.0705,190.4805,1/14/2019,0.454861111,Tarjeta,181.41,4.761904762,9.0705,5.6
+497-37-6538,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,58.91,7,20.6185,432.9885,1/17/2019,0.635416667,Digital,412.37,4.761904762,20.6185,9.7
+651-96-5970,Alex,Yangon,Normal,Masculino,Accesorios de moda,46.41,1,2.3205,48.7305,3/3/2019,0.8375,Tarjeta,46.41,4.761904762,2.3205,4
+400-80-4065,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,68.55,4,13.71,287.91,2/15/2019,0.847916667,Tarjeta,274.2,4.761904762,13.71,9.2
+744-16-7898,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,97.37,10,48.685,1022.385,1/15/2019,0.575,Tarjeta,973.7,4.761904762,48.685,4.9
+263-12-5321,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,92.6,7,32.41,680.61,2/27/2019,0.536111111,Tarjeta,648.2,4.761904762,32.41,9.3
+702-72-0487,Alex,Yangon,Normal,Femenino,Accesorios electronicos,46.61,2,4.661,97.881,2/26/2019,0.519444444,Tarjeta,93.22,4.761904762,4.661,6.6
+605-83-1050,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,27.18,2,2.718,57.078,3/15/2019,0.684722222,Digital,54.36,4.761904762,2.718,4.3
+443-60-9639,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,60.87,1,3.0435,63.9135,1/24/2019,0.558333333,Efectivo,60.87,4.761904762,3.0435,5.5
+864-24-7918,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,24.49,10,12.245,257.145,2/22/2019,0.635416667,Efectivo,244.9,4.761904762,12.245,8.1
+359-94-5395,Cairo,Mandalay,Normal,Masculino,Salud y belleza,92.78,1,4.639,97.419,3/15/2019,0.451388889,Tarjeta,92.78,4.761904762,4.639,9.8
+401-09-4232,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,86.69,5,21.6725,455.1225,2/11/2019,0.776388889,Digital,433.45,4.761904762,21.6725,9.4
+751-15-6198,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,23.01,6,6.903,144.963,1/12/2019,0.697916667,Digital,138.06,4.761904762,6.903,7.9
+324-41-6833,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,30.2,8,12.08,253.68,3/3/2019,0.8125,Digital,241.6,4.761904762,12.08,5.1
+474-33-8305,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,67.39,7,23.5865,495.3165,3/23/2019,0.557638889,Digital,471.73,4.761904762,23.5865,6.9
+759-29-9521,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,48.96,9,22.032,462.672,3/4/2019,0.477083333,Efectivo,440.64,4.761904762,22.032,8
+831-81-6575,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,75.59,9,34.0155,714.3255,2/23/2019,0.466666667,Efectivo,680.31,4.761904762,34.0155,8
+220-68-6701,Alex,Yangon,Normal,Femenino,Articulos para el hogar,77.47,4,15.494,325.374,3/17/2019,0.691666667,Efectivo,309.88,4.761904762,15.494,4.2
+618-34-8551,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,93.18,2,9.318,195.678,1/16/2019,0.778472222,Tarjeta,186.36,4.761904762,9.318,8.5
+257-60-7754,Alex,Yangon,Normal,Femenino,Accesorios electronicos,50.23,4,10.046,210.966,1/8/2019,0.716666667,Efectivo,200.92,4.761904762,10.046,9
+559-61-5987,Cairo,Mandalay,Normal,Femenino,Salud y belleza,17.75,1,0.8875,18.6375,1/14/2019,0.443055556,Efectivo,17.75,4.761904762,0.8875,8.6
+189-55-2313,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,62.18,10,31.09,652.89,1/31/2019,0.439583333,Digital,621.8,4.761904762,31.09,6
+565-91-4567,Cairo,Mandalay,Normal,Masculino,Salud y belleza,10.75,8,4.3,90.3,3/15/2019,0.609722222,Digital,86,4.761904762,4.3,6.2
+380-60-5336,Alex,Yangon,Normal,Femenino,Accesorios electronicos,40.26,10,20.13,422.73,2/24/2019,0.754166667,Tarjeta,402.6,4.761904762,20.13,5
+815-04-6282,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,64.97,5,16.2425,341.0925,2/8/2019,0.536111111,Tarjeta,324.85,4.761904762,16.2425,6.5
+674-56-6360,Alex,Yangon,Normal,Masculino,Accesorios electronicos,95.15,1,4.7575,99.9075,3/22/2019,0.583333333,Efectivo,95.15,4.761904762,4.7575,6
+778-34-2523,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,48.62,8,19.448,408.408,1/24/2019,0.45625,Efectivo,388.96,4.761904762,19.448,5
+499-27-7781,Cairo,Mandalay,Normal,Femenino,Comestibles,53.21,8,21.284,446.964,3/14/2019,0.697916667,Digital,425.68,4.761904762,21.284,5
+477-59-2456,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,45.44,7,15.904,333.984,1/23/2019,0.46875,Efectivo,318.08,4.761904762,15.904,9.2
+832-51-6761,Alex,Yangon,Normal,Masculino,Comestibles,33.88,8,13.552,284.592,1/19/2019,0.853472222,Digital,271.04,4.761904762,13.552,9.6
+869-11-3082,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,96.16,4,19.232,403.872,1/27/2019,0.835416667,Tarjeta,384.64,4.761904762,19.232,8.4
+190-59-3964,Cairo,Mandalay,Afiliado,Masculino,Comestibles,47.16,5,11.79,247.59,2/3/2019,0.607638889,Tarjeta,235.8,4.761904762,11.79,6
+366-43-6862,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,52.89,4,10.578,222.138,3/25/2019,0.688888889,Digital,211.56,4.761904762,10.578,6.7
+186-43-8965,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,47.68,2,4.768,100.128,2/24/2019,0.423611111,Tarjeta,95.36,4.761904762,4.768,4.1
+784-21-9238,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,10.17,1,0.5085,10.6785,2/7/2019,0.59375,Efectivo,10.17,4.761904762,0.5085,5.9
+276-75-6884,Alex,Yangon,Normal,Femenino,Salud y belleza,68.71,3,10.3065,216.4365,3/4/2019,0.420138889,Efectivo,206.13,4.761904762,10.3065,8.7
+109-86-4363,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,60.08,7,21.028,441.588,2/14/2019,0.483333333,Tarjeta,420.56,4.761904762,21.028,4.5
+569-76-2760,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,22.01,4,4.402,92.442,1/29/2019,0.760416667,Tarjeta,88.04,4.761904762,4.402,6.6
+222-42-0244,Cairo,Mandalay,Afiliado,Femenino,Salud y belleza,72.11,9,32.4495,681.4395,1/28/2019,0.578472222,Tarjeta,648.99,4.761904762,32.4495,7.7
+760-53-9233,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,41.28,3,6.192,130.032,3/26/2019,0.775694444,Tarjeta,123.84,4.761904762,6.192,8.5
+538-22-0304,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,64.95,10,32.475,681.975,3/24/2019,0.76875,Efectivo,649.5,4.761904762,32.475,5.2
+416-17-9926,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,74.22,10,37.11,779.31,1/1/2019,0.6125,Tarjeta,742.2,4.761904762,37.11,4.3
+237-44-6163,Alex,Yangon,Normal,Masculino,Accesorios electronicos,10.56,8,4.224,88.704,1/24/2019,0.738194444,Efectivo,84.48,4.761904762,4.224,7.6
+636-17-0325,Cairo,Mandalay,Normal,Masculino,Salud y belleza,62.57,4,12.514,262.794,2/25/2019,0.775694444,Efectivo,250.28,4.761904762,12.514,9.5
+343-75-9322,Cairo,Mandalay,Afiliado,Femenino,Entrenamiento y viajes,11.85,8,4.74,99.54,1/9/2019,0.690277778,Efectivo,94.8,4.761904762,4.74,4.1
+528-14-9470,Alex,Yangon,Afiliado,Masculino,Salud y belleza,91.3,1,4.565,95.865,2/14/2019,0.6125,Digital,91.3,4.761904762,4.565,9.2
+427-45-9297,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,40.73,7,14.2555,299.3655,3/12/2019,0.459027778,Digital,285.11,4.761904762,14.2555,5.4
+807-34-3742,Alex,Yangon,Normal,Masculino,Accesorios de moda,52.38,1,2.619,54.999,3/26/2019,0.822222222,Efectivo,52.38,4.761904762,2.619,5.8
+288-62-1085,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,38.54,5,9.635,202.335,1/9/2019,0.565277778,Digital,192.7,4.761904762,9.635,5.6
+670-71-7306,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,44.63,6,13.389,281.169,1/2/2019,0.838888889,Tarjeta,267.78,4.761904762,13.389,5.1
+660-29-7083,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,55.87,10,27.935,586.635,1/15/2019,0.625694444,Efectivo,558.7,4.761904762,27.935,5.8
+271-77-8740,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,29.22,6,8.766,184.086,1/1/2019,0.486111111,Digital,175.32,4.761904762,8.766,5
+497-36-0989,Alex,Yangon,Normal,Masculino,Accesorios de moda,51.94,3,7.791,163.611,2/15/2019,0.639583333,Efectivo,155.82,4.761904762,7.791,7.9
+291-59-1384,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,60.3,1,3.015,63.315,2/28/2019,0.734722222,Efectivo,60.3,4.761904762,3.015,6
+860-73-6466,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,39.47,2,3.947,82.887,3/2/2019,0.677777778,Tarjeta,78.94,4.761904762,3.947,5
+549-23-9016,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,14.87,2,1.487,31.227,2/13/2019,0.760416667,Tarjeta,29.74,4.761904762,1.487,8.9
+896-34-0956,Alex,Yangon,Normal,Masculino,Accesorios de moda,21.32,1,1.066,22.386,1/26/2019,0.529861111,Efectivo,21.32,4.761904762,1.066,5.9
+804-38-3935,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,93.78,3,14.067,295.407,1/30/2019,0.480555556,Tarjeta,281.34,4.761904762,14.067,5.9
+585-90-0249,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,73.26,1,3.663,76.923,1/27/2019,0.755555556,Digital,73.26,4.761904762,3.663,9.7
+862-29-5914,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,22.38,1,1.119,23.499,1/30/2019,0.713888889,Tarjeta,22.38,4.761904762,1.119,8.6
+845-94-6841,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,72.88,9,32.796,688.716,1/8/2019,0.818055556,Efectivo,655.92,4.761904762,32.796,4
+125-45-2293,Alex,Yangon,Normal,Femenino,Accesorios de moda,99.1,6,29.73,624.33,1/19/2019,0.549305556,Efectivo,594.6,4.761904762,29.73,4.2
+843-73-4724,Alex,Yangon,Normal,Masculino,Accesorios de moda,74.1,1,3.705,77.805,1/25/2019,0.461805556,Efectivo,74.1,4.761904762,3.705,9.2
+409-33-9708,Alex,Yangon,Normal,Femenino,Accesorios de moda,98.48,2,9.848,206.808,2/19/2019,0.425,Digital,196.96,4.761904762,9.848,9.2
+658-66-3967,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,53.19,7,18.6165,390.9465,1/14/2019,0.654166667,Digital,372.33,4.761904762,18.6165,5
+866-70-2814,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,52.79,10,26.395,554.295,2/25/2019,0.498611111,Digital,527.9,4.761904762,26.395,10
+160-22-2687,Alex,Yangon,Afiliado,Femenino,Salud y belleza,95.95,5,23.9875,503.7375,1/23/2019,0.597916667,Digital,479.75,4.761904762,23.9875,8.8
+895-03-6665,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,36.51,9,16.4295,345.0195,2/16/2019,0.452777778,Efectivo,328.59,4.761904762,16.4295,4.2
+770-42-8960,Cairo,Mandalay,Normal,Masculino,Comestibles,21.12,8,8.448,177.408,1/1/2019,0.813194444,Efectivo,168.96,4.761904762,8.448,6.3
+748-45-2862,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,28.31,4,5.662,118.902,3/7/2019,0.774305556,Efectivo,113.24,4.761904762,5.662,8.2
+234-36-2483,Cairo,Mandalay,Normal,Masculino,Salud y belleza,57.59,6,17.277,362.817,2/15/2019,0.577083333,Efectivo,345.54,4.761904762,17.277,5.1
+316-66-3011,Alex,Yangon,Afiliado,Femenino,Comestibles,47.63,9,21.4335,450.1035,1/23/2019,0.524305556,Efectivo,428.67,4.761904762,21.4335,5
+848-95-6252,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,86.27,1,4.3135,90.5835,2/20/2019,0.558333333,Digital,86.27,4.761904762,4.3135,7
+840-76-5966,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,12.76,2,1.276,26.796,1/8/2019,0.754166667,Digital,25.52,4.761904762,1.276,7.8
+152-03-4217,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,11.28,9,5.076,106.596,3/17/2019,0.496527778,Tarjeta,101.52,4.761904762,5.076,4.3
+533-66-5566,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,51.07,7,17.8745,375.3645,1/12/2019,0.4875,Efectivo,357.49,4.761904762,17.8745,7
+124-31-1458,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,79.59,3,11.9385,250.7085,1/8/2019,0.604166667,Efectivo,238.77,4.761904762,11.9385,6.6
+176-78-1170,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,33.81,3,5.0715,106.5015,1/26/2019,0.632638889,Digital,101.43,4.761904762,5.0715,7.3
+361-59-0574,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,90.53,8,36.212,760.452,3/15/2019,0.616666667,Tarjeta,724.24,4.761904762,36.212,6.5
+101-81-4070,Giza,Naypyitaw,Afiliado,Femenino,Salud y belleza,62.82,2,6.282,131.922,1/17/2019,0.525,Digital,125.64,4.761904762,6.282,4.9
+631-34-1880,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,24.31,3,3.6465,76.5765,1/8/2019,0.797916667,Tarjeta,72.93,4.761904762,3.6465,4.3
+852-82-2749,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,64.59,4,12.918,271.278,1/6/2019,0.565972222,Digital,258.36,4.761904762,12.918,9.3
+873-14-6353,Alex,Yangon,Afiliado,Masculino,Comestibles,24.82,7,8.687,182.427,2/16/2019,0.439583333,Tarjeta,173.74,4.761904762,8.687,7.1
+584-66-4073,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,56.5,1,2.825,59.325,3/13/2019,0.65625,Digital,56.5,4.761904762,2.825,9.6
+544-55-9589,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,21.43,10,10.715,225.015,1/28/2019,0.49375,Efectivo,214.3,4.761904762,10.715,6.2
+166-19-2553,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,89.06,6,26.718,561.078,1/18/2019,0.726388889,Efectivo,534.36,4.761904762,26.718,9.9
+737-88-5876,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,23.29,4,4.658,97.818,3/19/2019,0.494444444,Tarjeta,93.16,4.761904762,4.658,5.9
+154-87-7367,Giza,Naypyitaw,Normal,Masculino,Articulos para el hogar,65.26,8,26.104,548.184,3/15/2019,0.586111111,Digital,522.08,4.761904762,26.104,6.3
+885-56-0389,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,52.35,1,2.6175,54.9675,2/12/2019,0.742361111,Efectivo,52.35,4.761904762,2.6175,4
+608-05-3804,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,39.75,1,1.9875,41.7375,2/25/2019,0.846527778,Efectivo,39.75,4.761904762,1.9875,6.1
+448-61-3783,Alex,Yangon,Normal,Femenino,Accesorios electronicos,90.02,8,36.008,756.168,3/21/2019,0.672222222,Tarjeta,720.16,4.761904762,36.008,4.5
+761-49-0439,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,12.1,8,4.84,101.64,1/19/2019,0.428472222,Digital,96.8,4.761904762,4.84,8.6
+490-95-0021,Cairo,Mandalay,Afiliado,Femenino,Comestibles,33.21,10,16.605,348.705,1/8/2019,0.600694444,Digital,332.1,4.761904762,16.605,6
+115-38-7388,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,10.18,8,4.072,85.512,3/30/2019,0.535416667,Tarjeta,81.44,4.761904762,4.072,9.5
+311-13-6971,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,31.99,10,15.995,335.895,2/20/2019,0.6375,Tarjeta,319.9,4.761904762,15.995,9.9
+291-55-6563,Alex,Yangon,Afiliado,Femenino,Articulos para el hogar,34.42,6,10.326,216.846,3/30/2019,0.53125,Digital,206.52,4.761904762,10.326,7.5
+548-48-3156,Alex,Yangon,Afiliado,Femenino,Comestibles,83.34,2,8.334,175.014,3/19/2019,0.567361111,Efectivo,166.68,4.761904762,8.334,7.6
+460-93-5834,Alex,Yangon,Normal,Masculino,Entrenamiento y viajes,45.58,7,15.953,335.013,1/13/2019,0.41875,Efectivo,319.06,4.761904762,15.953,5
+325-89-4209,Alex,Yangon,Afiliado,Masculino,Comestibles,87.9,1,4.395,92.295,2/5/2019,0.820833333,Digital,87.9,4.761904762,4.395,6.7
+884-80-6021,Alex,Yangon,Afiliado,Femenino,Accesorios electronicos,73.47,10,36.735,771.435,3/23/2019,0.551388889,Digital,734.7,4.761904762,36.735,9.5
+137-74-8729,Giza,Naypyitaw,Normal,Femenino,Accesorios de moda,12.19,8,4.876,102.396,3/13/2019,0.532638889,Digital,97.52,4.761904762,4.876,6.8
+880-46-5796,Alex,Yangon,Afiliado,Masculino,Entrenamiento y viajes,76.92,10,38.46,807.66,3/17/2019,0.828472222,Digital,769.2,4.761904762,38.46,5.6
+389-70-2397,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,83.66,5,20.915,439.215,2/21/2019,0.434722222,Efectivo,418.3,4.761904762,20.915,7.2
+114-35-5271,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,57.91,8,23.164,486.444,2/7/2019,0.629166667,Efectivo,463.28,4.761904762,23.164,8.1
+607-76-6216,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,92.49,5,23.1225,485.5725,3/2/2019,0.690972222,Tarjeta,462.45,4.761904762,23.1225,8.6
+715-20-1673,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,28.38,5,7.095,148.995,3/6/2019,0.872916667,Efectivo,141.9,4.761904762,7.095,9.4
+811-35-1094,Cairo,Mandalay,Afiliado,Masculino,Accesorios electronicos,50.45,6,15.135,317.835,2/6/2019,0.636111111,Tarjeta,302.7,4.761904762,15.135,8.9
+699-88-1972,Cairo,Mandalay,Normal,Masculino,Salud y belleza,99.16,8,39.664,832.944,1/28/2019,0.740972222,Tarjeta,793.28,4.761904762,39.664,4.2
+781-84-8059,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,60.74,7,21.259,446.439,1/18/2019,0.682638889,Digital,425.18,4.761904762,21.259,5
+409-49-6995,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,47.27,6,14.181,297.801,2/5/2019,0.428472222,Efectivo,283.62,4.761904762,14.181,8.8
+725-54-0677,Giza,Naypyitaw,Afiliado,Masculino,Salud y belleza,85.6,7,29.96,629.16,3/2/2019,0.576388889,Efectivo,599.2,4.761904762,29.96,5.3
+146-09-5432,Alex,Yangon,Afiliado,Masculino,Comestibles,35.04,9,15.768,331.128,2/9/2019,0.803472222,Digital,315.36,4.761904762,15.768,4.6
+377-79-7592,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,44.84,9,20.178,423.738,1/14/2019,0.583333333,Tarjeta,403.56,4.761904762,20.178,7.5
+509-10-0516,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,45.97,4,9.194,193.074,2/9/2019,0.501388889,Digital,183.88,4.761904762,9.194,5.1
+595-94-9924,Alex,Yangon,Afiliado,Femenino,Salud y belleza,27.73,5,6.9325,145.5825,3/26/2019,0.847916667,Tarjeta,138.65,4.761904762,6.9325,4.2
+865-41-9075,Alex,Yangon,Normal,Masculino,Comestibles,11.53,7,4.0355,84.7455,1/28/2019,0.732638889,Efectivo,80.71,4.761904762,4.0355,8.1
+545-07-8534,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,58.32,2,5.832,122.472,2/14/2019,0.529166667,Digital,116.64,4.761904762,5.832,6
+118-62-1812,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,78.38,4,15.676,329.196,3/24/2019,0.747222222,Efectivo,313.52,4.761904762,15.676,7.9
+450-42-3339,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,84.61,10,42.305,888.405,2/9/2019,0.790277778,Tarjeta,846.1,4.761904762,42.305,8.8
+851-98-3555,Cairo,Mandalay,Normal,Femenino,Salud y belleza,82.88,5,20.72,435.12,3/24/2019,0.588888889,Tarjeta,414.4,4.761904762,20.72,6.6
+186-71-5196,Alex,Yangon,Afiliado,Femenino,Comestibles,79.54,2,7.954,167.034,3/27/2019,0.6875,Digital,159.08,4.761904762,7.954,6.2
+624-01-8356,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,49.01,10,24.505,514.605,1/27/2019,0.447222222,Tarjeta,490.1,4.761904762,24.505,4.2
+313-66-9943,Cairo,Mandalay,Afiliado,Femenino,Comestibles,29.15,3,4.3725,91.8225,3/27/2019,0.853472222,Tarjeta,87.45,4.761904762,4.3725,7.3
+151-27-8496,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,56.13,4,11.226,235.746,1/19/2019,0.488194444,Digital,224.52,4.761904762,11.226,8.6
+453-33-6436,Alex,Yangon,Normal,Femenino,Articulos para el hogar,93.12,8,37.248,782.208,2/7/2019,0.422916667,Efectivo,744.96,4.761904762,37.248,6.8
+522-57-8364,Alex,Yangon,Afiliado,Masculino,Accesorios de moda,51.34,8,20.536,431.256,1/31/2019,0.416666667,Digital,410.72,4.761904762,20.536,7.6
+459-45-2396,Alex,Yangon,Afiliado,Femenino,Comestibles,99.6,3,14.94,313.74,2/25/2019,0.78125,Efectivo,298.8,4.761904762,14.94,5.8
+717-96-4189,Giza,Naypyitaw,Normal,Femenino,Accesorios electronicos,35.49,6,10.647,223.587,2/2/2019,0.527777778,Efectivo,212.94,4.761904762,10.647,4.1
+722-13-2115,Giza,Naypyitaw,Afiliado,Masculino,Entrenamiento y viajes,42.85,1,2.1425,44.9925,3/14/2019,0.65,Tarjeta,42.85,4.761904762,2.1425,9.3
+749-81-8133,Alex,Yangon,Normal,Femenino,Accesorios de moda,94.67,4,18.934,397.614,3/11/2019,0.502777778,Efectivo,378.68,4.761904762,18.934,6.8
+777-67-2495,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,68.97,3,10.3455,217.2555,2/22/2019,0.476388889,Digital,206.91,4.761904762,10.3455,8.7
+636-98-3364,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,26.26,3,3.939,82.719,3/2/2019,0.525,Digital,78.78,4.761904762,3.939,6.3
+246-55-6923,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,35.79,9,16.1055,338.2155,3/10/2019,0.629166667,Tarjeta,322.11,4.761904762,16.1055,5.1
+181-82-6255,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,16.37,6,4.911,103.131,2/8/2019,0.456944444,Efectivo,98.22,4.761904762,4.911,7
+838-02-1821,Giza,Naypyitaw,Afiliado,Femenino,Articulos para el hogar,12.73,2,1.273,26.733,2/22/2019,0.506944444,Tarjeta,25.46,4.761904762,1.273,5.2
+887-42-0517,Giza,Naypyitaw,Normal,Femenino,Entrenamiento y viajes,83.14,7,29.099,611.079,1/10/2019,0.438194444,Tarjeta,581.98,4.761904762,29.099,6.6
+457-12-0244,Giza,Naypyitaw,Afiliado,Femenino,Entrenamiento y viajes,35.22,6,10.566,221.886,3/14/2019,0.575694444,Digital,211.32,4.761904762,10.566,6.5
+226-34-0034,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,13.78,4,2.756,57.876,1/10/2019,0.465277778,Digital,55.12,4.761904762,2.756,9
+321-49-7382,Cairo,Mandalay,Afiliado,Masculino,Entrenamiento y viajes,88.31,1,4.4155,92.7255,2/15/2019,0.734722222,Tarjeta,88.31,4.761904762,4.4155,5.2
+397-25-8725,Alex,Yangon,Afiliado,Femenino,Salud y belleza,39.62,9,17.829,374.409,1/13/2019,0.745833333,Tarjeta,356.58,4.761904762,17.829,6.8
+431-66-2305,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,88.25,9,39.7125,833.9625,2/15/2019,0.86875,Tarjeta,794.25,4.761904762,39.7125,7.6
+825-94-5922,Cairo,Mandalay,Normal,Masculino,Entrenamiento y viajes,25.31,2,2.531,53.151,3/2/2019,0.809722222,Digital,50.62,4.761904762,2.531,7.2
+641-62-7288,Cairo,Mandalay,Normal,Masculino,Articulos para el hogar,99.92,6,29.976,629.496,3/24/2019,0.564583333,Digital,599.52,4.761904762,29.976,7.1
+756-93-1854,Giza,Naypyitaw,Afiliado,Femenino,Accesorios de moda,83.35,2,8.335,175.035,2/2/2019,0.586805556,Tarjeta,166.7,4.761904762,8.335,9.5
+243-55-8457,Alex,Yangon,Normal,Femenino,Comestibles,74.44,10,37.22,781.62,2/27/2019,0.486111111,Digital,744.4,4.761904762,37.22,5.1
+458-10-8612,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,64.08,7,22.428,470.988,1/20/2019,0.51875,Digital,448.56,4.761904762,22.428,7.6
+501-61-1753,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,63.15,6,18.945,397.845,1/3/2019,0.85,Digital,378.9,4.761904762,18.945,9.8
+235-06-8510,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,85.72,3,12.858,270.018,1/24/2019,0.874305556,Digital,257.16,4.761904762,12.858,5.1
+433-08-7822,Giza,Naypyitaw,Normal,Femenino,Salud y belleza,78.89,7,27.6115,579.8415,1/5/2019,0.825,Digital,552.23,4.761904762,27.6115,7.5
+361-85-2571,Alex,Yangon,Normal,Femenino,Entrenamiento y viajes,89.48,5,22.37,469.77,3/30/2019,0.429166667,Efectivo,447.4,4.761904762,22.37,7.4
+131-70-8179,Alex,Yangon,Afiliado,Femenino,Salud y belleza,92.09,3,13.8135,290.0835,2/17/2019,0.685416667,Efectivo,276.27,4.761904762,13.8135,4.2
+500-02-2261,Giza,Naypyitaw,Normal,Femenino,Comestibles,57.29,6,17.187,360.927,3/21/2019,0.711111111,Digital,343.74,4.761904762,17.187,5.9
+720-72-2436,Alex,Yangon,Normal,Masculino,Comestibles,66.52,4,13.304,279.384,3/2/2019,0.759722222,Digital,266.08,4.761904762,13.304,6.9
+702-83-5291,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,99.82,9,44.919,943.299,3/27/2019,0.446527778,Efectivo,898.38,4.761904762,44.919,6.6
+809-69-9497,Alex,Yangon,Normal,Femenino,Articulos para el hogar,45.68,10,22.84,479.64,1/19/2019,0.8125,Digital,456.8,4.761904762,22.84,5.7
+449-16-6770,Alex,Yangon,Normal,Masculino,Salud y belleza,50.79,5,12.6975,266.6475,2/19/2019,0.620138889,Tarjeta,253.95,4.761904762,12.6975,5.3
+333-23-2632,Alex,Yangon,Afiliado,Masculino,Salud y belleza,10.08,7,3.528,74.088,3/28/2019,0.843055556,Efectivo,70.56,4.761904762,3.528,4.2
+489-82-1237,Alex,Yangon,Normal,Femenino,Accesorios electronicos,93.88,7,32.858,690.018,1/5/2019,0.49375,Tarjeta,657.16,4.761904762,32.858,7.3
+859-97-6048,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,84.25,2,8.425,176.925,3/26/2019,0.592361111,Tarjeta,168.5,4.761904762,8.425,5.3
+676-10-2200,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,53.78,1,2.689,56.469,2/3/2019,0.842361111,Digital,53.78,4.761904762,2.689,4.7
+373-88-1424,Giza,Naypyitaw,Afiliado,Masculino,Articulos para el hogar,35.81,5,8.9525,188.0025,2/6/2019,0.780555556,Digital,179.05,4.761904762,8.9525,7.9
+365-16-4334,Cairo,Mandalay,Normal,Femenino,Comestibles,26.43,8,10.572,222.012,2/24/2019,0.601388889,Digital,211.44,4.761904762,10.572,8.9
+503-21-4385,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,39.91,3,5.9865,125.7165,2/21/2019,0.527777778,Digital,119.73,4.761904762,5.9865,9.3
+305-89-2768,Cairo,Mandalay,Afiliado,Femenino,Articulos para el hogar,21.9,3,3.285,68.985,1/9/2019,0.779861111,Digital,65.7,4.761904762,3.285,4.7
+574-80-1489,Cairo,Mandalay,Afiliado,Femenino,Comestibles,62.85,4,12.57,263.97,2/25/2019,0.556944444,Digital,251.4,4.761904762,12.57,8.7
+784-08-0310,Giza,Naypyitaw,Afiliado,Femenino,Comestibles,21.04,4,4.208,88.368,1/13/2019,0.581944444,Efectivo,84.16,4.761904762,4.208,7.6
+200-40-6154,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,65.91,6,19.773,415.233,2/9/2019,0.489583333,Efectivo,395.46,4.761904762,19.773,5.7
+846-10-0341,Alex,Yangon,Normal,Femenino,Accesorios de moda,42.57,7,14.8995,312.8895,1/6/2019,0.49375,Efectivo,297.99,4.761904762,14.8995,6.8
+577-34-7579,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,50.49,9,22.7205,477.1305,1/10/2019,0.719444444,Efectivo,454.41,4.761904762,22.7205,5.4
+430-02-3888,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,46.02,6,13.806,289.926,2/7/2019,0.663194444,Efectivo,276.12,4.761904762,13.806,7.1
+867-47-1948,Giza,Naypyitaw,Normal,Femenino,Articulos para el hogar,15.8,10,7.9,165.9,1/9/2019,0.504861111,Efectivo,158,4.761904762,7.9,7.8
+384-59-6655,Alex,Yangon,Afiliado,Femenino,Comestibles,98.66,9,44.397,932.337,2/19/2019,0.629861111,Efectivo,887.94,4.761904762,44.397,8.4
+256-58-3609,Giza,Naypyitaw,Afiliado,Masculino,Accesorios de moda,91.98,1,4.599,96.579,3/18/2019,0.645138889,Efectivo,91.98,4.761904762,4.599,9.8
+324-92-3863,Alex,Yangon,Afiliado,Masculino,Accesorios electronicos,20.89,2,2.089,43.869,2/5/2019,0.78125,Efectivo,41.78,4.761904762,2.089,9.8
+593-08-5916,Alex,Yangon,Normal,Femenino,Accesorios de moda,15.5,1,0.775,16.275,3/19/2019,0.640972222,Tarjeta,15.5,4.761904762,0.775,7.4
+364-34-2972,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,96.82,3,14.523,304.983,3/30/2019,0.859027778,Efectivo,290.46,4.761904762,14.523,6.7
+794-42-3736,Cairo,Mandalay,Normal,Masculino,Comestibles,33.33,2,3.333,69.993,1/26/2019,0.611805556,Tarjeta,66.66,4.761904762,3.333,6.4
+172-42-8274,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,38.27,2,3.827,80.367,3/2/2019,0.7625,Tarjeta,76.54,4.761904762,3.827,5.8
+558-60-5016,Alex,Yangon,Normal,Femenino,Articulos para el hogar,33.3,9,14.985,314.685,3/4/2019,0.64375,Digital,299.7,4.761904762,14.985,7.2
+195-06-0432,Alex,Yangon,Afiliado,Masculino,Articulos para el hogar,81.01,3,12.1515,255.1815,1/13/2019,0.538194444,Tarjeta,243.03,4.761904762,12.1515,9.3
+605-03-2706,Alex,Yangon,Normal,Femenino,Salud y belleza,15.8,3,2.37,49.77,3/25/2019,0.751388889,Efectivo,47.4,4.761904762,2.37,9.5
+214-30-2776,Cairo,Mandalay,Afiliado,Femenino,Accesorios electronicos,34.49,5,8.6225,181.0725,3/11/2019,0.822222222,Tarjeta,172.45,4.761904762,8.6225,9
+746-04-1077,Cairo,Mandalay,Afiliado,Femenino,Comestibles,84.63,10,42.315,888.615,1/1/2019,0.483333333,Tarjeta,846.3,4.761904762,42.315,9
+448-34-8700,Cairo,Mandalay,Afiliado,Masculino,Articulos para el hogar,36.91,7,12.9185,271.2885,2/10/2019,0.577083333,Digital,258.37,4.761904762,12.9185,6.7
+452-04-8808,Cairo,Mandalay,Normal,Masculino,Accesorios electronicos,87.08,7,30.478,640.038,1/26/2019,0.636805556,Efectivo,609.56,4.761904762,30.478,5.5
+531-56-4728,Alex,Yangon,Normal,Masculino,Articulos para el hogar,80.08,3,12.012,252.252,2/11/2019,0.645138889,Efectivo,240.24,4.761904762,12.012,5.4
+744-82-9138,Giza,Naypyitaw,Normal,Masculino,Accesorios de moda,86.13,2,8.613,180.873,2/7/2019,0.749305556,Efectivo,172.26,4.761904762,8.613,8.2
+883-69-1285,Cairo,Mandalay,Afiliado,Masculino,Accesorios de moda,49.92,2,4.992,104.832,3/6/2019,0.496527778,Tarjeta,99.84,4.761904762,4.992,7
+221-25-5073,Alex,Yangon,Normal,Femenino,Comestibles,74.66,4,14.932,313.572,3/4/2019,0.44375,Efectivo,298.64,4.761904762,14.932,8.5
+518-71-6847,Cairo,Mandalay,Afiliado,Masculino,Comestibles,26.6,6,7.98,167.58,2/26/2019,0.631944444,Digital,159.6,4.761904762,7.98,4.9
+156-20-0370,Cairo,Mandalay,Normal,Femenino,Accesorios electronicos,25.45,1,1.2725,26.7225,3/10/2019,0.756944444,Tarjeta,25.45,4.761904762,1.2725,5.1
+151-33-7434,Cairo,Mandalay,Normal,Femenino,Comestibles,67.77,1,3.3885,71.1585,2/4/2019,0.863194444,Tarjeta,67.77,4.761904762,3.3885,6.5
+728-47-9078,Giza,Naypyitaw,Afiliado,Masculino,Comestibles,59.59,4,11.918,250.278,1/19/2019,0.531944444,Efectivo,238.36,4.761904762,11.918,9.8
+809-46-1866,Alex,Yangon,Normal,Masculino,Salud y belleza,58.15,4,11.63,244.23,1/23/2019,0.738888889,Efectivo,232.6,4.761904762,11.63,8.4
+139-32-4183,Alex,Yangon,Afiliado,Femenino,Entrenamiento y viajes,97.48,9,43.866,921.186,3/14/2019,0.596527778,Digital,877.32,4.761904762,43.866,7.4
+148-41-7930,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,99.96,7,34.986,734.706,1/23/2019,0.439583333,Efectivo,699.72,4.761904762,34.986,6.1
+189-40-5216,Giza,Naypyitaw,Normal,Masculino,Accesorios electronicos,96.37,7,33.7295,708.3195,1/9/2019,0.486111111,Efectivo,674.59,4.761904762,33.7295,6
+374-38-5555,Cairo,Mandalay,Normal,Femenino,Accesorios de moda,63.71,5,15.9275,334.4775,2/7/2019,0.8125,Digital,318.55,4.761904762,15.9275,8.5
+764-44-8999,Cairo,Mandalay,Normal,Femenino,Salud y belleza,14.76,2,1.476,30.996,2/18/2019,0.6125,Digital,29.52,4.761904762,1.476,4.3
+552-44-5977,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,62,8,24.8,520.8,1/3/2019,0.797222222,Tarjeta,496,4.761904762,24.8,6.2
+267-62-7380,Giza,Naypyitaw,Afiliado,Masculino,Accesorios electronicos,82.34,10,41.17,864.57,3/29/2019,0.8,Digital,823.4,4.761904762,41.17,4.3
+430-53-4718,Cairo,Mandalay,Afiliado,Masculino,Salud y belleza,75.37,8,30.148,633.108,1/28/2019,0.656944444,Tarjeta,602.96,4.761904762,30.148,8.4
+886-18-2897,Alex,Yangon,Normal,Femenino,Comestibles,56.56,5,14.14,296.94,3/22/2019,0.795833333,Tarjeta,282.8,4.761904762,14.14,4.5
+602-16-6955,Cairo,Mandalay,Normal,Femenino,Entrenamiento y viajes,76.6,10,38.3,804.3,1/24/2019,0.756944444,Digital,766,4.761904762,38.3,6
+745-74-0715,Alex,Yangon,Normal,Masculino,Accesorios electronicos,58.03,2,5.803,121.863,3/10/2019,0.865277778,Digital,116.06,4.761904762,5.803,8.8
+690-01-6631,Cairo,Mandalay,Normal,Masculino,Accesorios de moda,17.49,10,8.745,183.645,2/22/2019,0.774305556,Digital,174.9,4.761904762,8.745,6.6
+652-49-6720,Giza,Naypyitaw,Afiliado,Femenino,Accesorios electronicos,60.95,1,3.0475,63.9975,2/18/2019,0.486111111,Digital,60.95,4.761904762,3.0475,5.9
+233-67-5758,Giza,Naypyitaw,Normal,Masculino,Salud y belleza,40.35,1,2.0175,42.3675,1/29/2019,0.573611111,Digital,40.35,4.761904762,2.0175,6.2
+303-96-2227,Cairo,Mandalay,Normal,Femenino,Articulos para el hogar,97.38,10,48.69,1022.49,3/2/2019,0.719444444,Digital,973.8,4.761904762,48.69,4.4
+727-02-1313,Alex,Yangon,Afiliado,Masculino,Comestibles,31.84,1,1.592,33.432,2/9/2019,0.556944444,Efectivo,31.84,4.761904762,1.592,7.7
+347-56-2442,Alex,Yangon,Normal,Masculino,Articulos para el hogar,65.82,1,3.291,69.111,2/22/2019,0.647916667,Efectivo,65.82,4.761904762,3.291,4.1
+849-09-3807,Alex,Yangon,Afiliado,Femenino,Accesorios de moda,88.34,7,30.919,649.299,2/18/2019,0.561111111,Efectivo,618.38,4.761904762,30.919,6.6

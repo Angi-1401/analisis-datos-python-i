@@ -1,4 +1,4 @@
-import pandas as pd # <- Importar la biblioteca Pandas para el manejo de datos
+import pandas as pd  # <- Importar la biblioteca Pandas para el manejo de datos
 
 # Cargar el archivo CSV en un DataFrame de Pandas
 datos = pd.read_csv("nomina.csv")
@@ -62,9 +62,32 @@ print(datos[(datos["SalarioNeto"] >= 1500) & (datos["HorasExtra"] < 6)])
 # Ejercicios:
 # Responder las siguientes preguntas utilizando Pandas:
 # 1. ¿Cuántos trabajadores tienen un salario neto mayor a 2000?
+print(datos[datos["SalarioNeto"] > 2000].shape[0])
+
 # 2. ¿Cuántos trabajadores tienen un salario neto menor a 1000
-# 3. ¿Cuántos trabajadores con un salario netro entre 1500 y 2500 pertenecen
+print(datos[datos["SalarioNeto"] < 1000].shape[0])
+
+# 3. ¿Cuántos trabajadores con un salario neto entre 1500 y 2500 pertenecen
 #    al departamento de "TI"?
+print(
+    datos[
+        (datos["SalarioNeto"] >= 1500)
+        & (datos["SalarioNeto"] <= 2500)
+        & (datos["Departamento"] == "TI")
+    ].shape[0]
+)
+
 # 4. ¿Cuántos trabajadores del departamento de "Finanzas" trabajaron más de 10 horas extra?
+print(
+    datos[(datos["Departamento"] == "Finanzas") & (datos["HorasExtra"] > 10)].shape[0]
+)
+
 # 5. ¿Cuántos trabajadores del departamento de "RRHH" tienen un salario neto menor a 1200 y
 #    trabajaron menos de 5 horas extra?
+print(
+    datos[
+        (datos["Departamento"] == "RRHH")
+        & (datos["SalarioNeto"] < 1200)
+        & (datos["HorasExtra"] < 5)
+    ].shape[0]
+)
