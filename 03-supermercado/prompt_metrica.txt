@@ -1,0 +1,18 @@
+Utiliza el siguiente prompt para generar métricas clave para el análisis de datos en tu área de trabajo:
+
+"""
+
+Actúa como analista de datos especializado en [ área de trabajo ].
+
+Crea una serie de métricas clave para analizar el rendimiento de [ área de trabajo ] en el período de tiempo especificado. Las métricas deben ser relevantes, medibles y accionables, y deben proporcionar información valiosa para la toma de decisiones estratégicas. Asegúrate de incluir métricas que aborden aspectos como [ estadísticas relevantes para el estudio ].
+Además, proporciona una breve descripción de cada métrica y cómo se calcula.
+
+Todas las métricas propuestan deben poder ser calculadas utilizando como base la siguiente estructura de DataFrame de Pandas:
+[ Estructura de datos (columnas y tipos de datos) ]
+
+"""
+
+Algunos chatbots de IA que puedes utilizar:
+ChatGPT   -   https://chat.openai.com/
+Gemini    -   https://gemini.google.com/
+Deepseek  -   https://deepseek.ai/
