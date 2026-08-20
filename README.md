@@ -52,6 +52,14 @@ Nota: Para instalar las dependencias de un proyecto existente, ejecuta el siguie
   pip install -r requirements.txt
 ```
 
+## ¿Qué paquetes necesito?
+
+1. Para realizar un dashboard de datos con Python, se recomiendan los siguientes paquetes:
+```bash
+  pip install pandas numpy streamlit openpyxl
+```
+Nota: La instalación podría tardar un rato dependiendo de la conexión a internet.
+
 ## ¿Cómo ejecutar un proyecto de Streamlit?
 
 1. Crea un archivo 'main.py' donde almacenar tu código.
